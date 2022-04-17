@@ -8,7 +8,7 @@ async function main() {
     "projectDirectoryPath": __dirname,
     filePath: "./index.md",
     config: {
-      previewTheme: "vue.css",
+      previewTheme: "github-light.css",
       codeBlockTheme: "default.css",
       printBackground: true,
       enableScriptExecution: true, // <= for running code chunks
