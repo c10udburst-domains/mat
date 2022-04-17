@@ -1,4 +1,5 @@
 ---
+title: "Matematyka"
 html:
     embed_svg: false
 ---
@@ -116,6 +117,14 @@ $P=\frac{1}{2} \cdot (a+b+c+d) \cdot r$
 Warunek współliniowości trzech punktów na płaszczyźnie $A(x_A; y_A)$, $B(x_B; y_B)$, $C(x_C; y_C)$:
 
 $\frac{x_C - x_A}{x_B - x_A} = \frac{y_C - y_A}{y_B - y_A}$
+
+# Wektory
+
+## Pole trójkąta
+<img src="assets/wektory_pole.svg" width="300px">
+
+dla $\vec{AB} = [x_1;y_1]$ i $\vec{AC} = [x_2;y_2]$:
+$P = \frac{1}{2} \cdot |x_1 \cdot y_2 - x_2 \cdot y_1|$
 
 # Kombinatoryka
 Rozmiar wyjściowego zbioru: $n$
