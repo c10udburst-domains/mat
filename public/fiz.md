@@ -49,3 +49,14 @@ $M = \vec{r} \times \vec{F} = F \cdot r \cdot \sin{\angle(\vec{r}; \vec{F})}$
 $I_A=I_o + m \cdot d^2$, gdzie $I_o$ jest środkiem ciężkości
 <img src="assets/fiz/moment_obrotowy.svg" width="200px">
 
+# Siła Lorenza
+
+$F_l = q\vec{V} \cdot \vec{B} = qVB\sin{\angle(\vec{V}; \vec{B})}$
+
+# Orbita
+<img src="assets/fiz/orbita.svg" width="250px">
+
+$r$ - promień wodzący
+$B$ - perycentrum
+$A$ - abcentrum
+
