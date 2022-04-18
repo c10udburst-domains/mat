@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@shd101wyy/mume": "^0.7.0"
+    "@shd101wyy/mume": "^0.7.0",
+    "glob": "^8.0.1"
   }
 }

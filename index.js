@@ -1,12 +1,15 @@
 const mume = require("@shd101wyy/mume");
-const fs = require("fs");
+const glob = require("glob")
 
-async function main() {
+const path = __dirname + "/public"
+
+async function parse(name) {
   await mume.init();
 
   const engine = new mume.MarkdownEngine({
-    "projectDirectoryPath": __dirname,
-    filePath: "./index.md",
+    projectDirectoryPath: path,
+    fileDirectoryPath: path,
+    filePath: `public/${name}`,
     config: {
       previewTheme: "github-light.css",
       codeBlockTheme: "default.css",
@@ -20,8 +23,14 @@ async function main() {
       offline: false,
       runAllCodeChunks: true
     });
-
-  return process.exit();
 }
 
-main();
+(async ()=> {
+  try {
+    const files = glob.sync("./*.md", {cwd:path})
+    await Promise.all(files.map((it) => parse(it)))
+  } catch (e) {
+    console.error(e)
+  }
+  return process.exit()
+})()

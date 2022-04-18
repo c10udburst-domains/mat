@@ -72,44 +72,44 @@ dowód nie wprost: $f(x_1) = f(x_2) \Rightarrow x_1 = x_2$
 # Związki pól
 
 ## W trapezie:
-<img src="assets/trapez.svg" width="300px">
+<img src="assets/math/trapez.svg" width="300px">
 
 $P_3 = \sqrt{P_1 \cdot P_2} \Leftrightarrow P_3 \cdot P_3 = P_1 \cdot P_2$
 
 ## W dowolnym czworokącie wypukłym:
-<img src="assets/czworokat.svg" width="300px">
+<img src="assets/math/czworokat.svg" width="300px">
 
 $P_1 \cdot P_3 = P_2 \cdot P_4$
 
 # Twierdzenie Ptolemeusza
 *W dowolnym czworokącie ABCD wpisanym w okrąg iloczyn długości przekątnych równy jest sumie iloczynów długości przeciwległych boków*
 
-<img src="assets/ptolemeusz.svg" width="300px">
+<img src="assets/math/ptolemeusz.svg" width="300px">
 
 $|AC| \cdot |BD| = |AB| \cdot |CD| + |BC| \cdot |AD|$
 
 # Twierdzenie o siecznych
-<img src="assets/sieczne.svg" width="400px">
+<img src="assets/math/sieczne.svg" width="400px">
 
 $|AE| \cdot |BE| = |DE| \cdot |CE|$
 
 # Kąty dopisany i wpisany
 Kąty dopisany i wpisany na tym samym łuku są równe
-<img src="assets/dopisany.svg" width="400px">
+<img src="assets/math/dopisany.svg" width="400px">
 
 # Pole czworokąta opisanego na okręgu
 ## Pole czworokąta jednocześnie wpisanego i opisanego na okregu
-<img src="assets/wpisany_i_opisany.svg" width="300px">
+<img src="assets/math/wpisany_i_opisany.svg" width="300px">
 
 $P = \sqrt{abcd}$
 
 ## Pole czworokąta opisanego na okręgu
-<img src="assets/opisany_czworokat.svg" width="300px">
+<img src="assets/math/opisany_czworokat.svg" width="300px">
 
 $P=\frac{1}{2} \cdot (a+b+c+d) \cdot r$
 
 # Przekroje sześcianu
-| <img src="assets/szescian_40.png" width="200px"> | <img src="assets/szescian_54.png" width="200px"> | <img src="assets/szescian_60.png" width="200px"> |
+| <img src="assets/math/szescian_40.png" width="200px"> | <img src="assets/math/szescian_54.png" width="200px"> | <img src="assets/math/szescian_60.png" width="200px"> |
 |:---:|:---:|:---:|
 | $tg\ \alpha < \sqrt{2} \Leftrightarrow \alpha < 54^{\circ}$ | $tg\ \alpha = \sqrt{2} \Rightarrow \alpha \approx 54^{\circ}$ | $tg\ \alpha > \sqrt{2} \Leftrightarrow \alpha > 54^{\circ}$ |
 
@@ -121,7 +121,7 @@ $\frac{x_C - x_A}{x_B - x_A} = \frac{y_C - y_A}{y_B - y_A}$
 # Wektory
 
 ## Pole trójkąta
-<img src="assets/wektory_pole.svg" width="300px">
+<img src="assets/math/wektory_pole.svg" width="300px">
 
 dla $\vec{AB} = [x_1;y_1]$ i $\vec{AC} = [x_2;y_2]$:
 $P = \frac{1}{2} \cdot |x_1 \cdot y_2 - x_2 \cdot y_1|$
