@@ -4,6 +4,7 @@ const glob = require("glob")
 const path = __dirname + "/public"
 
 async function parse(name) {
+  console.log(`Parsing: ${name}`)
   await mume.init();
 
   const engine = new mume.MarkdownEngine({
@@ -27,7 +28,7 @@ async function parse(name) {
 
 (async ()=> {
   try {
-    const files = glob.sync("./**.md", {cwd:path})
+    const files = glob.sync("./**/*.md", {cwd:path})
     await Promise.all(files.map((it) => parse(it)))
   } catch (e) {
     console.error(e)
