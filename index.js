@@ -27,7 +27,7 @@ async function parse(name) {
 
 (async ()=> {
   try {
-    const files = glob.sync("./*.md", {cwd:path})
+    const files = glob.sync("./**.md", {cwd:path})
     await Promise.all(files.map((it) => parse(it)))
   } catch (e) {
     console.error(e)
