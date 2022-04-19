@@ -75,12 +75,14 @@ dowód nie wprost: $f(x_1) = f(x_2) \Rightarrow x_1 = x_2$
 # Odcinki w trójkącie
 
 ## Przecięcia odcinków
-| Odcinek | Przecięcie | Zawsze w 1 punkcie |
-|:---:|:---:|:---:|
-| Symetralne | Środek okręgu wpisanego | :fa-times: |
-| Dwusieczne | Środek okręgu wpisanego | :fa-check: |
-| Środkowe | Środek ciężkości | :fa-check: |
-| Wysokości | Ortocentrum | :fa-check: |
+Wszystkie te odcinki zawsze przecinają się w jednym punkcie
+
+| Odcinek | Przecięcie |
+|:---:|:---:|
+| Symetralne | Środek okręgu wpisanego |
+| Dwusieczne | Środek okręgu wpisanego |
+| Środkowe | Środek ciężkości |
+| Wysokości | Ortocentrum |
 
 ## Twierdzenie o dwusiecznej
 <img src="assets/math/dwusieczne.svg" width="300px">
