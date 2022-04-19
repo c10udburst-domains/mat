@@ -69,6 +69,37 @@ dowód nie wprost: $f(x_1) = f(x_2) \Rightarrow x_1 = x_2$
 <br>
 - $tg\ x = \frac{2tg\frac{x}{2}}{1\ -\ tg^2\frac{x}{2}} = \frac{2t}{1\ -\ t^2}$
 
+# Odcinki w trójkącie
+
+## Przecięcia odcinków
+| Odcinek | Przecięcie | Zawsze w 1 punkcie |
+|:---:|:---:|:---:|
+| Symetralne | Środek okręgu wpisanego | :fa-times: |
+| Dwusieczne | Środek okręgu wpisanego | :fa-check: |
+| Środkowe | Środek ciężkości | :fa-check: |
+| Wysokości | Ortocentrum | :fa-check: |
+
+## Twierdzenie o dwusiecznej
+<img src="assets/math/dwusieczne.svg" width="300px">
+
+$\frac{|AD|}{|AC|} = \frac{|DB|}{|BC|}$
+
+## Twierdzenie o środkowych
+Środkowe trójkąta przecinają się w jednym punkcie. Dzieli on każdą z nich w stosunku $2:1$ licząc od wierzchołka.
+
+# Wektory
+
+## Pole trójkąta
+<img src="assets/math/wektory_pole.svg" width="300px">
+
+dla $\vec{AB} = [x_1;y_1]$ i $\vec{AC} = [x_2;y_2]$:
+$P = \frac{1}{2} \cdot |x_1 \cdot y_2 - x_2 \cdot y_1|$
+
+# Warunek współliniowości
+Warunek współliniowości trzech punktów na płaszczyźnie $A(x_A; y_A)$, $B(x_B; y_B)$, $C(x_C; y_C)$:
+
+$\frac{x_C - x_A}{x_B - x_A} = \frac{y_C - y_A}{y_B - y_A}$
+
 # Związki pól
 
 ## W trapezie:
@@ -112,19 +143,6 @@ $P=\frac{1}{2} \cdot (a+b+c+d) \cdot r$
 | <img src="assets/math/szescian_40.png" width="200px"> | <img src="assets/math/szescian_54.png" width="200px"> | <img src="assets/math/szescian_60.png" width="200px"> |
 |:---:|:---:|:---:|
 | $tg\ \alpha < \sqrt{2} \Leftrightarrow \alpha < 54^{\circ}$ | $tg\ \alpha = \sqrt{2} \Rightarrow \alpha \approx 54^{\circ}$ | $tg\ \alpha > \sqrt{2} \Leftrightarrow \alpha > 54^{\circ}$ |
-
-# Warunek współliniowości
-Warunek współliniowości trzech punktów na płaszczyźnie $A(x_A; y_A)$, $B(x_B; y_B)$, $C(x_C; y_C)$:
-
-$\frac{x_C - x_A}{x_B - x_A} = \frac{y_C - y_A}{y_B - y_A}$
-
-# Wektory
-
-## Pole trójkąta
-<img src="assets/math/wektory_pole.svg" width="300px">
-
-dla $\vec{AB} = [x_1;y_1]$ i $\vec{AC} = [x_2;y_2]$:
-$P = \frac{1}{2} \cdot |x_1 \cdot y_2 - x_2 \cdot y_1|$
 
 # Kombinatoryka
 Rozmiar wyjściowego zbioru: $n$
