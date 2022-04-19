@@ -59,6 +59,9 @@ $\frac{W(1) - W(-1)}{2}$
 - Suma współczynników przy potęgach **parzystych**:
 $\frac{W(1) + W(-1)}{2}$
 
+# Twierdzenie Fermata
+Dla każdego $n > 2 \wedge n \in \Z$ równanie $x^n + y^n = z^n$ nie ma rozwiązań $x, y, z$ w **liczbach naturalnych** 
+
 # Wykazywanie różnowartościowości funkcji
 dowód nie wprost: $f(x_1) = f(x_2) \Rightarrow x_1 = x_2$
 
