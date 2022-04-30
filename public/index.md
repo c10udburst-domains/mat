@@ -1,3 +1,4 @@
 - [Matematyka](math.html)
     - [Twier](interia/twier.html)
 - [Fizyka](fiz.html)
+- [Motywy](motywy)

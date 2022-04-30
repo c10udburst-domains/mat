@@ -1,0 +1,882 @@
+{
+    "alkoholizm": {
+        "id": "alkoholizm",
+        "nazwa": "Alkoholizm",
+        "utwory": [
+            "balladyna"
+        ]
+    },
+    "ambicja": {
+        "id": "ambicja",
+        "nazwa": "Ambicja",
+        "utwory": [
+            "lalka",
+            "ludzie-bezdomni"
+        ]
+    },
+    "apokalipsa": {
+        "id": "apokalipsa",
+        "nazwa": "Apokalipsa",
+        "utwory": [
+            "dzuma"
+        ]
+    },
+    "arkadia": {
+        "id": "arkadia",
+        "nazwa": "Arkadia",
+        "utwory": [
+            "pan-tadeusz",
+            "przedwiosnie"
+        ]
+    },
+    "artysta": {
+        "id": "artysta",
+        "nazwa": "Artysta",
+        "utwory": [
+            "cierpienia-mlodego-wertera"
+        ]
+    },
+    "bal": {
+        "id": "bal",
+        "nazwa": "Bal",
+        "utwory": [
+            "romeo-i-julia",
+            "dziady-3"
+        ]
+    },
+    "bezdomnosc": {
+        "id": "bezdomnosc",
+        "nazwa": "Bezdomność",
+        "utwory": [
+            "lalka",
+            "ludzie-bezdomni"
+        ]
+    },
+    "bieda": {
+        "id": "bieda",
+        "nazwa": "Bieda",
+        "utwory": [
+            "lalka",
+            "ludzie-bezdomni",
+            "zbrodnia-i-kara"
+        ]
+    },
+    "bog": {
+        "id": "bog",
+        "nazwa": "Bóg",
+        "utwory": [
+            "dziady-3",
+            "dziady-2",
+            "stary-testament",
+            "bogurodzica"
+        ]
+    },
+    "bunt": {
+        "id": "bunt",
+        "nazwa": "Bunt",
+        "utwory": [
+            "ferdydurke",
+            "antygona",
+            "mit-o-dedalu-i-ikarze",
+            "mit-o-prometeuszu",
+            "romeo-i-julia",
+            "tango",
+            "krol-edyp",
+            "dziady-3",
+            "moralnosc-pani-dulskiej"
+        ]
+    },
+    "chlopomania": {
+        "id": "chlopomania",
+        "nazwa": "Chłopomania",
+        "utwory": [
+            "wesele"
+        ]
+    },
+    "choroba": {
+        "id": "choroba",
+        "nazwa": "Choroba",
+        "utwory": [
+            "dzuma",
+            "zbrodnia-i-kara",
+            "sklepy-cynamonowe"
+        ]
+    },
+    "cierpienie": {
+        "id": "cierpienie",
+        "nazwa": "Cierpienie",
+        "utwory": [
+            "lalka",
+            "treny",
+            "antygona",
+            "mit-o-prometeuszu",
+            "ludzie-bezdomni",
+            "granica",
+            "dziady-3",
+            "stary-testament",
+            "cierpienia-mlodego-wertera",
+            "romantycznosc",
+            "mit-o-demeter-i-korze"
+        ]
+    },
+    "deesis": {
+        "id": "deesis",
+        "nazwa": "Deesis",
+        "utwory": [
+            "bogurodzica"
+        ]
+    },
+    "dehumanizacja": {
+        "id": "dehumanizacja",
+        "nazwa": "Dehumanizacja",
+        "utwory": [
+            "prosze-panstwa-do-gazu"
+        ]
+    },
+    "duma": {
+        "id": "duma",
+        "nazwa": "Duma",
+        "utwory": [
+            "lalka"
+        ]
+    },
+    "dwor": {
+        "id": "dwor",
+        "nazwa": "Dwór",
+        "utwory": [
+            "pan-tadeusz"
+        ]
+    },
+    "dziecinstwo": {
+        "id": "dziecinstwo",
+        "nazwa": "Dzieciństwo",
+        "utwory": [
+            "w-domach-z-betonu"
+        ]
+    },
+    "dziecko": {
+        "id": "dziecko",
+        "nazwa": "Dziecko",
+        "utwory": [
+            "treny",
+            "granica",
+            "dziady-3",
+            "dziady-2",
+            "cierpienia-mlodego-wertera",
+            "moralnosc-pani-dulskiej"
+        ]
+    },
+    "edukacja": {
+        "id": "edukacja",
+        "nazwa": "Edukacja",
+        "utwory": [
+            "ferdydurke",
+            "pan-tadeusz"
+        ]
+    },
+    "etyka": {
+        "id": "etyka",
+        "nazwa": "Etyka",
+        "utwory": [
+            "chlopi"
+        ]
+    },
+    "falszywa-idea": {
+        "id": "falszywa-idea",
+        "nazwa": "Fałszywa idea",
+        "utwory": [
+            "zbrodnia-i-kara"
+        ]
+    },
+    "granica": {
+        "id": "granica",
+        "nazwa": "Granica",
+        "utwory": [
+            "granica"
+        ]
+    },
+    "halucynacje": {
+        "id": "halucynacje",
+        "nazwa": "Halucynacje",
+        "utwory": [
+            "makbet"
+        ]
+    },
+    "heroizm": {
+        "id": "heroizm",
+        "nazwa": "Heroizm",
+        "utwory": [
+            "inny-swiat",
+            "kamienie-na-szaniec"
+        ]
+    },
+    "historia": {
+        "id": "historia",
+        "nazwa": "Historia",
+        "utwory": [
+            "lalka"
+        ]
+    },
+    "kara": {
+        "id": "kara",
+        "nazwa": "Kara",
+        "utwory": [
+            "mit-o-prometeuszu",
+            "krol-edyp",
+            "makbet",
+            "dziady-2",
+            "zbrodnia-i-kara",
+            "balladyna"
+        ]
+    },
+    "kat": {
+        "id": "kat",
+        "nazwa": "Kat",
+        "utwory": [
+            "dziady-3",
+            "dziady-2"
+        ]
+    },
+    "kobieta": {
+        "id": "kobieta",
+        "nazwa": "Kobieta",
+        "utwory": [
+            "lalka",
+            "zbrodnia-i-kara",
+            "balladyna"
+        ]
+    },
+    "kobieta-fatalna": {
+        "id": "kobieta-fatalna",
+        "nazwa": "Kobieta fatalna",
+        "utwory": [
+            "makbet"
+        ]
+    },
+    "konflikt-pokolen": {
+        "id": "konflikt-pokolen",
+        "nazwa": "Konflikt pokoleń",
+        "utwory": [
+            "tango"
+        ]
+    },
+    "konflit": {
+        "id": "konflit",
+        "nazwa": "Konflit",
+        "utwory": [
+            "dziady-4"
+        ]
+    },
+    "kontekst-biblijny": {
+        "id": "kontekst-biblijny",
+        "nazwa": "Kontekst biblijny",
+        "utwory": [
+            "dzuma",
+            "dziady-3"
+        ]
+    },
+    "literatura": {
+        "id": "literatura",
+        "nazwa": "Literatura",
+        "utwory": [
+            "lalka"
+        ]
+    },
+    "los": {
+        "id": "los",
+        "nazwa": "Los",
+        "utwory": [
+            "makbet"
+        ]
+    },
+    "magia": {
+        "id": "magia",
+        "nazwa": "Magia",
+        "utwory": [
+            "makbet"
+        ]
+    },
+    "malzenstwo": {
+        "id": "malzenstwo",
+        "nazwa": "Małżeństwo",
+        "utwory": [
+            "makbet",
+            "chlopi"
+        ]
+    },
+    "martyrologia": {
+        "id": "martyrologia",
+        "nazwa": "Martyrologia",
+        "utwory": [
+            "dziady-3"
+        ]
+    },
+    "marzenie": {
+        "id": "marzenie",
+        "nazwa": "Marzenie",
+        "utwory": [
+            "przedwiosnie"
+        ]
+    },
+    "matka": {
+        "id": "matka",
+        "nazwa": "Matka",
+        "utwory": [
+            "dziady-3",
+            "przedwiosnie",
+            "stary-testament",
+            "nowy-testament"
+        ]
+    },
+    "mesjanizm": {
+        "id": "mesjanizm",
+        "nazwa": "Mesjanizm",
+        "utwory": [
+            "dziady-3"
+        ]
+    },
+    "miasto": {
+        "id": "miasto",
+        "nazwa": "Miasto",
+        "utwory": [
+            "lalka",
+            "dzuma",
+            "zbrodnia-i-kara",
+            "joker"
+        ]
+    },
+    "milczenie": {
+        "id": "milczenie",
+        "nazwa": "Milczenie",
+        "utwory": [
+            "dziady-3"
+        ]
+    },
+    "milosc": {
+        "id": "milosc",
+        "nazwa": "Miłość",
+        "utwory": [
+            "lalka",
+            "wesele",
+            "pan-tadeusz",
+            "antygona",
+            "konrad-wallenrod",
+            "kordian",
+            "dziady-4",
+            "stary-testament",
+            "nowy-testament",
+            "chlopi",
+            "mit-orfeuszu-i-eurydyce"
+        ]
+    },
+    "milosierdzie": {
+        "id": "milosierdzie",
+        "nazwa": "Miłosierdzie",
+        "utwory": [
+            "nowy-testament"
+        ]
+    },
+    "mlodosc": {
+        "id": "mlodosc",
+        "nazwa": "Młodość",
+        "utwory": [
+            "dziady-3"
+        ]
+    },
+    "nadzieja": {
+        "id": "nadzieja",
+        "nazwa": "Nadzieja",
+        "utwory": [
+            "lalka",
+            "pan-tadeusz",
+            "ludzie-bezdomni"
+        ]
+    },
+    "natura": {
+        "id": "natura",
+        "nazwa": "Natura",
+        "utwory": [
+            "cierpienia-mlodego-wertera",
+            "chlopi"
+        ]
+    },
+    "nauczyciel": {
+        "id": "nauczyciel",
+        "nazwa": "Nauczyciel",
+        "utwory": [
+            "ferdydurke"
+        ]
+    },
+    "nauka": {
+        "id": "nauka",
+        "nazwa": "Nauka",
+        "utwory": [
+            "lalka",
+            "ludzie-bezdomni"
+        ]
+    },
+    "niezrozumienie": {
+        "id": "niezrozumienie",
+        "nazwa": "Niezrozumienie",
+        "utwory": [
+            "stary-testament"
+        ]
+    },
+    "obietnica": {
+        "id": "obietnica",
+        "nazwa": "Obietnica",
+        "utwory": [
+            "konrad-wallenrod"
+        ]
+    },
+    "ofiara": {
+        "id": "ofiara",
+        "nazwa": "Ofiara",
+        "utwory": [
+            "pan-tadeusz",
+            "nowy-testament"
+        ]
+    },
+    "ojciec": {
+        "id": "ojciec",
+        "nazwa": "Ojciec",
+        "utwory": [
+            "przedwiosnie",
+            "przedwiosnie",
+            "powrot-syna-marnotrawnego",
+            "sklepy-cynamonowe"
+        ]
+    },
+    "patriotyzm": {
+        "id": "patriotyzm",
+        "nazwa": "Patriotyzm",
+        "utwory": [
+            "wesele",
+            "konrad-wallenrod",
+            "kordian",
+            "dziady-3",
+            "przedwiosnie",
+            "kamienie-na-szaniec",
+            "nad-niemnem"
+        ]
+    },
+    "pazernosc": {
+        "id": "pazernosc",
+        "nazwa": "Pazerność",
+        "utwory": [
+            "sklepy-cynamonowe"
+        ]
+    },
+    "pielgrzym": {
+        "id": "pielgrzym",
+        "nazwa": "Pielgrzym / Homo viator",
+        "utwory": [
+            "krol-edyp",
+            "dziady-3"
+        ]
+    },
+    "pieniadze": {
+        "id": "pieniadze",
+        "nazwa": "Pieniądze",
+        "utwory": [
+            "kordian"
+        ]
+    },
+    "podroz": {
+        "id": "podroz",
+        "nazwa": "Podróż",
+        "utwory": [
+            "ludzie-bezdomni",
+            "kordian",
+            "jadro-ciemnosci"
+        ]
+    },
+    "poeta": {
+        "id": "poeta",
+        "nazwa": "Poeta",
+        "utwory": [
+            "dziady-3"
+        ]
+    },
+    "poezja": {
+        "id": "poezja",
+        "nazwa": "Poezja",
+        "utwory": [
+            "kordian"
+        ]
+    },
+    "poezja-tyrtejska": {
+        "id": "poezja-tyrtejska",
+        "nazwa": "Poezja tyrtejska",
+        "utwory": [
+            "konrad-wallenrod"
+        ]
+    },
+    "pokora": {
+        "id": "pokora",
+        "nazwa": "Pokora",
+        "utwory": [
+            "dziady-3"
+        ]
+    },
+    "portret-matki": {
+        "id": "portret-matki",
+        "nazwa": "Portret matki",
+        "utwory": [
+            "przedwiosnie"
+        ]
+    },
+    "poswiecenie": {
+        "id": "poswiecenie",
+        "nazwa": "Poświęcenie",
+        "utwory": [
+            "zbrodnia-i-kara",
+            "stary-testament",
+            "nowy-testament"
+        ]
+    },
+    "praca": {
+        "id": "praca",
+        "nazwa": "Praca",
+        "utwory": [
+            "ludzie-bezdomni"
+        ]
+    },
+    "praca-u-podstaw": {
+        "id": "praca-u-podstaw",
+        "nazwa": "Praca u podstaw",
+        "utwory": [
+            "lalka"
+        ]
+    },
+    "prometeizm": {
+        "id": "prometeizm",
+        "nazwa": "Prometeizm",
+        "utwory": [
+            "dziady-3"
+        ]
+    },
+    "przemiana": {
+        "id": "przemiana",
+        "nazwa": "Przemiana",
+        "utwory": [
+            "pan-tadeusz",
+            "dzuma",
+            "makbet",
+            "kordian",
+            "dziady-3",
+            "zbrodnia-i-kara",
+            "balladyna",
+            "opowiesc-wigilijna"
+        ]
+    },
+    "przemoc": {
+        "id": "przemoc",
+        "nazwa": "Przemoc",
+        "utwory": [
+            "makbet"
+        ]
+    },
+    "przepowiednia": {
+        "id": "przepowiednia",
+        "nazwa": "Przepowiednia",
+        "utwory": [
+            "makbet"
+        ]
+    },
+    "przeznaczenie": {
+        "id": "przeznaczenie",
+        "nazwa": "Przeznaczenie",
+        "utwory": [
+            "krol-edyp"
+        ]
+    },
+    "przyjazn": {
+        "id": "przyjazn",
+        "nazwa": "Przyjaźń",
+        "utwory": [
+            "zbrodnia-i-kara",
+            "maly-ksiaze"
+        ]
+    },
+    "psychologia": {
+        "id": "psychologia",
+        "nazwa": "Motyw psychologiczny",
+        "utwory": [
+            "lalka"
+        ]
+    },
+    "pycha": {
+        "id": "pycha",
+        "nazwa": "Pycha",
+        "utwory": [
+            "mit-o-syzyfie"
+        ]
+    },
+    "rewolucja": {
+        "id": "rewolucja",
+        "nazwa": "Rewolucja",
+        "utwory": [
+            "wesele",
+            "przedwiosnie"
+        ]
+    },
+    "rodzina": {
+        "id": "rodzina",
+        "nazwa": "Rodzina",
+        "utwory": [
+            "lalka",
+            "ferdydurke",
+            "pan-tadeusz",
+            "ludzie-bezdomni",
+            "ludzie-bezdomni",
+            "tango",
+            "krol-edyp",
+            "zbrodnia-i-kara",
+            "stary-testament",
+            "moralnosc-pani-dulskiej"
+        ]
+    },
+    "samobojstwo": {
+        "id": "samobojstwo",
+        "nazwa": "Samobójstwo",
+        "utwory": [
+            "lalka",
+            "romeo-i-julia",
+            "krol-edyp",
+            "konrad-wallenrod",
+            "makbet",
+            "kordian",
+            "dziady-4",
+            "dziady-2",
+            "cierpienia-mlodego-wertera"
+        ]
+    },
+    "samotnosc": {
+        "id": "samotnosc",
+        "nazwa": "Samotność",
+        "utwory": [
+            "lalka",
+            "konrad-wallenrod",
+            "kordian",
+            "romantycznosc"
+        ]
+    },
+    "sen": {
+        "id": "sen",
+        "nazwa": "Sen",
+        "utwory": [
+            "lalka",
+            "wesele",
+            "granica",
+            "dziady-3",
+            "zbrodnia-i-kara",
+            "sklepy-cynamonowe"
+        ]
+    },
+    "smierc": {
+        "id": "smierc",
+        "nazwa": "Śmierć",
+        "utwory": [
+            "granica",
+            "dziady-3",
+            "dziady-4"
+        ]
+    },
+    "spelnienie": {
+        "id": "spelnienie",
+        "nazwa": "Spełnienie",
+        "utwory": [
+            "lalka"
+        ]
+    },
+    "spisek": {
+        "id": "spisek",
+        "nazwa": "Spisek",
+        "utwory": [
+            "kordian"
+        ]
+    },
+    "spoleczenstwo": {
+        "id": "spoleczenstwo",
+        "nazwa": "Społeczeństwo",
+        "utwory": [
+            "lalka",
+            "wesele",
+            "granica",
+            "dziady-3",
+            "mendel-gdanski"
+        ]
+    },
+    "spor": {
+        "id": "spor",
+        "nazwa": "Spór",
+        "utwory": [
+            "pan-tadeusz"
+        ]
+    },
+    "szalenstwo": {
+        "id": "szalenstwo",
+        "nazwa": "Szaleństwo",
+        "utwory": [
+            "makbet",
+            "zbrodnia-i-kara"
+        ]
+    },
+    "szatan": {
+        "id": "szatan",
+        "nazwa": "Szatan",
+        "utwory": [
+            "kordian"
+        ]
+    },
+    "szczescie": {
+        "id": "szczescie",
+        "nazwa": "Szczęście",
+        "utwory": [
+            "pan-tadeusz"
+        ]
+    },
+    "sztuka": {
+        "id": "sztuka",
+        "nazwa": "Sztuka",
+        "utwory": [
+            "lalka"
+        ]
+    },
+    "tajemnica": {
+        "id": "tajemnica",
+        "nazwa": "Tajemnica",
+        "utwory": [
+            "pan-tadeusz"
+        ]
+    },
+    "taniec": {
+        "id": "taniec",
+        "nazwa": "Taniec",
+        "utwory": [
+            "pan-tadeusz",
+            "tango"
+        ]
+    },
+    "tradycja": {
+        "id": "tradycja",
+        "nazwa": "Tradycja",
+        "utwory": [
+            "pan-tadeusz",
+            "tango"
+        ]
+    },
+    "ufnosc": {
+        "id": "ufnosc",
+        "nazwa": "Ufność",
+        "utwory": [
+            "stary-testament"
+        ]
+    },
+    "walka-dobra-ze-zlem": {
+        "id": "walka-dobra-ze-zlem",
+        "nazwa": "Walka dobra ze złem",
+        "utwory": [
+            "dzuma",
+            "makbet"
+        ]
+    },
+    "wedrowka": {
+        "id": "wedrowka",
+        "nazwa": "Wędrówka",
+        "utwory": [
+            "ferdydurke"
+        ]
+    },
+    "wiernosc-idealom": {
+        "id": "wiernosc-idealom",
+        "nazwa": "Wierność ideałom",
+        "utwory": [
+            "przeslanie-pana-cogito"
+        ]
+    },
+    "wies": {
+        "id": "wies",
+        "nazwa": "Wieś",
+        "utwory": [
+            "wesele"
+        ]
+    },
+    "wladza": {
+        "id": "wladza",
+        "nazwa": "Władza",
+        "utwory": [
+            "antygona",
+            "krol-edyp",
+            "makbet",
+            "ranczo",
+            "balladyna"
+        ]
+    },
+    "zareczyny": {
+        "id": "zareczyny",
+        "nazwa": "Zręczyny",
+        "utwory": [
+            "pan-tadeusz"
+        ]
+    },
+    "zazdrosc": {
+        "id": "zazdrosc",
+        "nazwa": "Zazdrość",
+        "utwory": [
+            "granica",
+            "stary-testament"
+        ]
+    },
+    "zbrodnia": {
+        "id": "zbrodnia",
+        "nazwa": "Zbrodnia",
+        "utwory": [
+            "pan-tadeusz",
+            "krol-edyp",
+            "makbet",
+            "kordian",
+            "zbrodnia-i-kara",
+            "balladyna"
+        ]
+    },
+    "zdrada": {
+        "id": "zdrada",
+        "nazwa": "Zdrada",
+        "utwory": [
+            "tango"
+        ]
+    },
+    "zemsta": {
+        "id": "zemsta",
+        "nazwa": "Zemsta",
+        "utwory": [
+            "pan-tadeusz",
+            "konrad-wallenrod",
+            "zemsta"
+        ]
+    },
+    "zlo": {
+        "id": "zlo",
+        "nazwa": "Zło",
+        "utwory": [
+            "zbrodnia-i-kara"
+        ]
+    },
+    "zycie-jako-teatr": {
+        "id": "zycie-jako-teatr",
+        "nazwa": "Życie jako teatr",
+        "utwory": [
+            "lalka",
+            "makbet"
+        ]
+    },
+    "moralnosc": {
+        "id": "moralnosc",
+        "nazwa": "Moralność",
+        "utwory": [
+            "moralnosc-pani-dulskiej"
+        ]
+    }
+}

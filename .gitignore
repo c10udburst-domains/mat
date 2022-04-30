@@ -1,3 +1,4 @@
 node_modules
 package-lock.json
 public/**/*.html
+!public/motywy/index.html
