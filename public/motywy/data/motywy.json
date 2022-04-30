@@ -231,13 +231,6 @@
    "dziady-2"
   ]
  },
- "klotnia": {
-  "id": "klotnia",
-  "nazwa": "Kłótnia",
-  "utwory": [
-   "zemsta"
-  ]
- },
  "kobieta": {
   "id": "kobieta",
   "nazwa": "Kobieta",
@@ -265,7 +258,9 @@
   "id": "konflit",
   "nazwa": "Konflit",
   "utwory": [
-   "dziady-4"
+   "dziady-4",
+   "zemsta",
+   "pan-tadeusz"
   ]
  },
  "kontekst-biblijny": {
@@ -481,14 +476,6 @@
    "sklepy-cynamonowe"
   ]
  },
- "pielgrzym": {
-  "id": "pielgrzym",
-  "nazwa": "Pielgrzym / Homo viator",
-  "utwory": [
-   "krol-edyp",
-   "dziady-3"
-  ]
- },
  "pieniadze": {
   "id": "pieniadze",
   "nazwa": "Pieniądze",
@@ -634,39 +621,39 @@
   "id": "rewolucja",
   "nazwa": "Rewolucja",
   "utwory": [
-   "wesele",
-   "przedwiosnie"
+   "przedwiosnie",
+   "lalka",
+   "wesele"
   ]
  },
  "rodzina": {
   "id": "rodzina",
   "nazwa": "Rodzina",
   "utwory": [
+   "pan-tadeusz",
+   "moralnosc-pani-dulskiej",
+   "zbrodnia-i-kara",
+   "krol-edyp",
+   "stary-testament",
    "lalka",
    "ferdydurke",
-   "pan-tadeusz",
    "ludzie-bezdomni",
-   "ludzie-bezdomni",
-   "tango",
-   "krol-edyp",
-   "zbrodnia-i-kara",
-   "stary-testament",
-   "moralnosc-pani-dulskiej"
+   "tango"
   ]
  },
  "samobojstwo": {
   "id": "samobojstwo",
   "nazwa": "Samobójstwo",
   "utwory": [
-   "lalka",
-   "romeo-i-julia",
    "krol-edyp",
-   "konrad-wallenrod",
+   "dziady-2",
+   "cierpienia-mlodego-wertera",
+   "romeo-i-julia",
    "makbet",
    "kordian",
+   "konrad-wallenrod",
    "dziady-4",
-   "dziady-2",
-   "cierpienia-mlodego-wertera"
+   "lalka"
   ]
  },
  "samotnosc": {
@@ -723,13 +710,6 @@
    "granica",
    "dziady-3",
    "mendel-gdanski"
-  ]
- },
- "spor": {
-  "id": "spor",
-  "nazwa": "Spór",
-  "utwory": [
-   "pan-tadeusz"
   ]
  },
  "szalenstwo": {
@@ -806,7 +786,14 @@
   "id": "wedrowka",
   "nazwa": "Wędrówka",
   "utwory": [
-   "ferdydurke"
+   "maly-ksiaze",
+   "krol-edyp",
+   "kordian",
+   "nowy-testament",
+   "pan-tadeusz",
+   "ferdydurke",
+   "stary-testament",
+   "dziady-3"
   ]
  },
  "wiernosc-idealom": {
@@ -820,18 +807,22 @@
   "id": "wies",
   "nazwa": "Wieś",
   "utwory": [
-   "wesele"
+   "wesele",
+   "ferdydurke",
+   "chlopi",
+   "przedwiosnie"
   ]
  },
  "wladza": {
   "id": "wladza",
   "nazwa": "Władza",
   "utwory": [
+   "balladyna",
    "antygona",
-   "krol-edyp",
-   "makbet",
    "ranczo",
-   "balladyna"
+   "makbet",
+   "krol-edyp",
+   "stary-testament"
   ]
  },
  "zareczyny": {

@@ -37,10 +37,11 @@
   "autor": "Władysław Reymont",
   "id": "chlopi",
   "motywy": [
-   "milosc",
    "malzenstwo",
+   "natura",
+   "wies",
    "etyka",
-   "natura"
+   "milosc"
   ],
   "tytul": "Chłopi"
  },
@@ -86,7 +87,7 @@
    "taniec",
    "bog",
    "dziecko",
-   "pielgrzym",
+   "wedrowka",
    "kat",
    "milczenie",
    "mlodosc",
@@ -124,10 +125,11 @@
   "autor": "Witold Gombrowicz",
   "id": "ferdydurke",
   "motywy": [
-   "edukacja",
    "bunt",
    "nauczyciel",
+   "wies",
    "rodzina",
+   "edukacja",
    "wedrowka"
   ],
   "tytul": "Ferdydurke"
@@ -200,17 +202,18 @@
   "autor": "Juliusz Słowacki",
   "id": "kordian",
   "motywy": [
-   "przemiana",
-   "pieniadze",
-   "szatan",
-   "spisek",
-   "samotnosc",
-   "zbrodnia",
-   "poezja",
-   "milosc",
    "podroz",
+   "przemiana",
+   "wedrowka",
+   "spisek",
+   "patriotyzm",
    "samobojstwo",
-   "patriotyzm"
+   "zbrodnia",
+   "szatan",
+   "pieniadze",
+   "samotnosc",
+   "poezja",
+   "milosc"
   ],
   "tytul": "Kordian"
  },
@@ -225,7 +228,7 @@
    "bunt",
    "zbrodnia",
    "samobojstwo",
-   "pielgrzym"
+   "wedrowka"
   ],
   "tytul": "Król Edyp"
  },
@@ -233,28 +236,29 @@
   "autor": "Bolesław Prus",
   "id": "lalka",
   "motywy": [
-   "milosc",
-   "spoleczenstwo",
-   "bezdomnosc",
-   "samotnosc",
-   "praca-u-podstaw",
-   "miasto",
-   "cierpienie",
-   "bieda",
-   "nauka",
-   "kobieta",
-   "rodzina",
-   "samobojstwo",
-   "zycie-jako-teatr",
-   "sen",
-   "literatura",
-   "sztuka",
-   "nadzieja",
-   "ambicja",
-   "spelnienie",
    "psychologia",
+   "miasto",
+   "nadzieja",
+   "spelnienie",
+   "sztuka",
+   "samobojstwo",
+   "ambicja",
+   "literatura",
+   "bezdomnosc",
+   "rodzina",
+   "bieda",
+   "rewolucja",
+   "praca-u-podstaw",
+   "samotnosc",
+   "milosc",
+   "cierpienie",
+   "zycie-jako-teatr",
    "historia",
-   "duma"
+   "nauka",
+   "duma",
+   "spoleczenstwo",
+   "kobieta",
+   "sen"
   ],
   "tytul": "Lalka"
  },
@@ -301,6 +305,7 @@
   "autor": "Antoine de Saint-Exupéry",
   "id": "maly-ksiaze",
   "motywy": [
+   "wedrowka",
    "przyjazn"
   ],
   "tytul": "Mały książę"
@@ -375,9 +380,10 @@
   "motywy": [
    "milosierdzie",
    "poswiecenie",
-   "milosc",
+   "matka",
    "ofiara",
-   "matka"
+   "wedrowka",
+   "milosc"
   ],
   "tytul": "Nowy Testament"
  },
@@ -393,24 +399,25 @@
   "autor": "Adam Mickiewicz",
   "id": "pan-tadeusz",
   "motywy": [
-   "zemsta",
-   "przemiana",
-   "rodzina",
-   "tradycja",
-   "zbrodnia",
-   "tajemnica",
-   "taniec",
-   "natura",
-   "ofiara",
-   "szczescie",
-   "dwor",
-   "milosc",
-   "spor",
    "nadzieja",
-   "patriotyzm",
-   "edukacja",
+   "zemsta",
+   "tajemnica",
+   "tradycja",
+   "szczescie",
+   "ofiara",
+   "zbrodnia",
+   "arkadia",
+   "taniec",
+   "przemiana",
+   "dwor",
+   "wedrowka",
+   "rodzina",
+   "natura",
    "zareczyny",
-   "arkadia"
+   "patriotyzm",
+   "milosc",
+   "edukacja",
+   "konflikt"
   ],
   "tytul": "Pan Tadeusz"
  },
@@ -434,15 +441,14 @@
   "autor": "Stefan Żeromski",
   "id": "przedwiosnie",
   "motywy": [
-   "rewolucja",
-   "portret-matki",
-   "patriotyzm",
+   "arkadia",
    "ojciec",
    "matka",
    "marzenie",
-   "ojciec",
-   "arkadia",
-   "ojciec"
+   "wies",
+   "rewolucja",
+   "portret-matki",
+   "patriotyzm"
   ],
   "tytul": "Przedwiośnie"
  },
@@ -496,15 +502,17 @@
  "stary-testament": {
   "id": "stary-testament",
   "motywy": [
+   "matka",
+   "zazdrosc",
+   "wedrowka",
+   "niezrozumienie",
+   "cierpienie",
+   "rodzina",
+   "bog",
    "poswiecenie",
    "ufnosc",
-   "cierpienie",
-   "milosc",
-   "rodzina",
-   "niezrozumienie",
-   "matka",
-   "bog",
-   "zazdrosc"
+   "wladza",
+   "milosc"
   ],
   "tytul": "Stary Testament"
  },
@@ -512,11 +520,11 @@
   "autor": "Sławomir Mrożek",
   "id": "tango",
   "motywy": [
-   "konflikt-pokolen",
    "zdrada",
-   "taniec",
    "rodzina",
    "bunt",
+   "konflikt-pokolen",
+   "taniec",
    "tradycja"
   ],
   "tytul": "Tango"
@@ -580,7 +588,7 @@
   "id": "zemsta",
   "motywy": [
    "zemsta",
-   "klotnia",
+   "konflikt",
    "milosc"
   ],
   "tytul": "Zemsta"
