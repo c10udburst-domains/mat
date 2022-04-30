@@ -20,8 +20,7 @@
    "kobieta",
    "przemiana",
    "kara",
-   "wladza",
-   "alkoholizm"
+   "wladza"
   ],
   "tytul": "Balladyna"
  },
@@ -49,11 +48,12 @@
   "autor": "Johann Wolfgang von Goethe",
   "id": "cierpienia-mlodego-wertera",
   "motywy": [
+   "zazdrosc",
    "cierpienie",
-   "dziecko",
    "natura",
-   "artysta",
-   "samobojstwo"
+   "samobojstwo",
+   "poezja",
+   "dziecko"
   ],
   "tytul": "Cierpienia młodego wertera"
  },
@@ -77,7 +77,7 @@
    "mesjanizm",
    "cierpienie",
    "prometeizm",
-   "poeta",
+   "poezja",
    "przemiana",
    "bunt",
    "kontekst-biblijny",
@@ -126,11 +126,12 @@
   "id": "ferdydurke",
   "motywy": [
    "bunt",
-   "nauczyciel",
-   "wies",
    "rodzina",
+   "dom",
+   "nauczyciel",
    "edukacja",
-   "wedrowka"
+   "wedrowka",
+   "wies"
   ],
   "tytul": "Ferdydurke"
  },
@@ -188,7 +189,7 @@
   "id": "konrad-wallenrod",
   "motywy": [
    "patriotyzm",
-   "poezja-tyrtejska",
+   "poezja",
    "zemsta",
    "samotnosc",
    "obietnica",
@@ -236,29 +237,30 @@
   "autor": "Bolesław Prus",
   "id": "lalka",
   "motywy": [
-   "psychologia",
-   "miasto",
-   "nadzieja",
-   "spelnienie",
-   "sztuka",
-   "samobojstwo",
-   "ambicja",
-   "literatura",
-   "bezdomnosc",
    "rodzina",
-   "bieda",
+   "zydzi",
+   "samobojstwo",
+   "bezdomnosc",
    "rewolucja",
-   "praca-u-podstaw",
-   "samotnosc",
-   "milosc",
-   "cierpienie",
    "zycie-jako-teatr",
-   "historia",
-   "nauka",
+   "sen",
+   "miasto",
+   "literatura",
+   "praca-u-podstaw",
    "duma",
-   "spoleczenstwo",
+   "nadzieja",
+   "bieda",
+   "historia",
+   "psychologia",
+   "ambicja",
    "kobieta",
-   "sen"
+   "spoleczenstwo",
+   "sztuka",
+   "nauka",
+   "spelnienie",
+   "cierpienie",
+   "milosc",
+   "samotnosc"
   ],
   "tytul": "Lalka"
  },
@@ -266,16 +268,18 @@
   "autor": "Stefan Żeromski",
   "id": "ludzie-bezdomni",
   "motywy": [
-   "nadzieja",
-   "praca",
-   "nauka",
-   "podroz",
+   "bieda",
    "ambicja",
+   "nauka",
+   "rodzina",
+   "nadzieja",
+   "bezdomnosc",
+   "dom",
+   "praca",
+   "podroz",
    "cierpienie",
    "poswiecenie",
-   "bieda",
-   "rodzina",
-   "bezdomnosc"
+   "zydzi"
   ],
   "tytul": "Ludzie Bezdomni"
  },
@@ -314,6 +318,7 @@
   "autor": "Maria Konopnicka",
   "id": "mendel-gdanski",
   "motywy": [
+   "zydzi",
    "spoleczenstwo"
   ],
   "tytul": "Mendel Gdański"
@@ -360,10 +365,11 @@
   "autor": "Gabriela Zapolska",
   "id": "moralnosc-pani-dulskiej",
   "motywy": [
-   "dziecko",
+   "dom",
+   "rodzina",
    "bunt",
    "moralnosc",
-   "rodzina"
+   "dziecko"
   ],
   "tytul": "Moralność pani Dulskiej"
  },
@@ -371,19 +377,21 @@
   "autor": "Eliza Orzeszkowa",
   "id": "nad-niemnem",
   "motywy": [
-   "patriotyzm"
+   "patriotyzm",
+   "dom"
   ],
   "tytul": "Nad Niemnem"
  },
  "nowy-testament": {
   "id": "nowy-testament",
   "motywy": [
-   "milosierdzie",
+   "milosc",
    "poswiecenie",
    "matka",
-   "ofiara",
+   "milosierdzie",
    "wedrowka",
-   "milosc"
+   "ofiara",
+   "zydzi"
   ],
   "tytul": "Nowy Testament"
  },
@@ -399,25 +407,27 @@
   "autor": "Adam Mickiewicz",
   "id": "pan-tadeusz",
   "motywy": [
-   "nadzieja",
-   "zemsta",
-   "tajemnica",
-   "tradycja",
-   "szczescie",
    "ofiara",
    "zbrodnia",
-   "arkadia",
-   "taniec",
-   "przemiana",
-   "dwor",
-   "wedrowka",
    "rodzina",
-   "natura",
-   "zareczyny",
-   "patriotyzm",
-   "milosc",
+   "wedrowka",
+   "tradycja",
    "edukacja",
-   "konflikt"
+   "patriotyzm",
+   "konflikt",
+   "taniec",
+   "tajemnica",
+   "zareczyny",
+   "arkadia",
+   "natura",
+   "zydzi",
+   "milosc",
+   "dom",
+   "przemiana",
+   "zemsta",
+   "dwor",
+   "nadzieja",
+   "szczescie"
   ],
   "tytul": "Pan Tadeusz"
  },
@@ -444,7 +454,7 @@
    "arkadia",
    "ojciec",
    "matka",
-   "marzenie",
+   "nadzieja",
    "wies",
    "rewolucja",
    "portret-matki",
@@ -502,17 +512,20 @@
  "stary-testament": {
   "id": "stary-testament",
   "motywy": [
-   "matka",
-   "zazdrosc",
-   "wedrowka",
-   "niezrozumienie",
-   "cierpienie",
-   "rodzina",
-   "bog",
-   "poswiecenie",
-   "ufnosc",
    "wladza",
-   "milosc"
+   "zazdrosc",
+   "milosc",
+   "rodzina",
+   "cierpienie",
+   "zydzi",
+   "bog",
+   "ufnosc",
+   "niezrozumienie",
+   "poswiecenie",
+   "matka",
+   "arkadia",
+   "dom",
+   "wedrowka"
   ],
   "tytul": "Stary Testament"
  },
@@ -520,12 +533,13 @@
   "autor": "Sławomir Mrożek",
   "id": "tango",
   "motywy": [
-   "zdrada",
-   "rodzina",
-   "bunt",
-   "konflikt-pokolen",
    "taniec",
-   "tradycja"
+   "tradycja",
+   "konflikt-pokolen",
+   "bunt",
+   "rodzina",
+   "dom",
+   "zdrada"
   ],
   "tytul": "Tango"
  },
@@ -542,7 +556,7 @@
   "autor": "Pr08l3m",
   "id": "w-domach-z-betonu",
   "motywy": [
-   "dziecinstwo"
+   "dziecko"
   ],
   "tytul": "W domach z betonu"
  },
@@ -550,14 +564,15 @@
   "autor": "Stanisław Wyspiański",
   "id": "wesele",
   "motywy": [
-   "milosc",
-   "patriotyzm",
-   "rewolucja",
+   "wies",
    "chlopomania",
+   "rewolucja",
    "spoleczenstwo",
    "sen",
-   "wies",
-   "taniec"
+   "zydzi",
+   "taniec",
+   "patriotyzm",
+   "milosc"
   ],
   "tytul": "Wesele"
  },

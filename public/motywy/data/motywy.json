@@ -1,11 +1,4 @@
 {
- "alkoholizm": {
-  "id": "alkoholizm",
-  "nazwa": "Alkoholizm",
-  "utwory": [
-   "balladyna"
-  ]
- },
  "ambicja": {
   "id": "ambicja",
   "nazwa": "Ambicja",
@@ -25,15 +18,9 @@
   "id": "arkadia",
   "nazwa": "Arkadia",
   "utwory": [
+   "stary-testament",
    "pan-tadeusz",
    "przedwiosnie"
-  ]
- },
- "artysta": {
-  "id": "artysta",
-  "nazwa": "Artysta",
-  "utwory": [
-   "cierpienia-mlodego-wertera"
   ]
  },
  "bezdomnosc": {
@@ -125,6 +112,19 @@
    "prosze-panstwa-do-gazu"
   ]
  },
+ "dom": {
+  "id": "dom",
+  "nazwa": "Dom",
+  "utwory": [
+   "pan-tadeusz",
+   "moralnosc-pani-dulskiej",
+   "ludzie-bezdomni",
+   "nad-niemnem",
+   "tango",
+   "stary-testament",
+   "ferdydurke"
+  ]
+ },
  "duma": {
   "id": "duma",
   "nazwa": "Duma",
@@ -139,13 +139,6 @@
    "pan-tadeusz"
   ]
  },
- "dziecinstwo": {
-  "id": "dziecinstwo",
-  "nazwa": "Dzieciństwo",
-  "utwory": [
-   "w-domach-z-betonu"
-  ]
- },
  "dziecko": {
   "id": "dziecko",
   "nazwa": "Dziecko",
@@ -155,7 +148,8 @@
    "dziady-3",
    "dziady-2",
    "cierpienia-mlodego-wertera",
-   "moralnosc-pani-dulskiej"
+   "moralnosc-pani-dulskiej",
+   "w-domach-z-betonu"
   ]
  },
  "edukacja": {
@@ -307,13 +301,6 @@
    "dziady-3"
   ]
  },
- "marzenie": {
-  "id": "marzenie",
-  "nazwa": "Marzenie",
-  "utwory": [
-   "przedwiosnie"
-  ]
- },
  "matka": {
   "id": "matka",
   "nazwa": "Matka",
@@ -395,7 +382,8 @@
   "utwory": [
    "lalka",
    "pan-tadeusz",
-   "ludzie-bezdomni"
+   "ludzie-bezdomni",
+   "przedwiosnie"
   ]
  },
  "natura": {
@@ -492,25 +480,14 @@
    "jadro-ciemnosci"
   ]
  },
- "poeta": {
-  "id": "poeta",
-  "nazwa": "Poeta",
-  "utwory": [
-   "dziady-3"
-  ]
- },
  "poezja": {
   "id": "poezja",
   "nazwa": "Poezja",
   "utwory": [
-   "kordian"
-  ]
- },
- "poezja-tyrtejska": {
-  "id": "poezja-tyrtejska",
-  "nazwa": "Poezja tyrtejska",
-  "utwory": [
-   "konrad-wallenrod"
+    "cierpienia-mlodego-wertera",
+    "dziady-3",
+    "kordian",
+    "konrad-wallenrod"
   ]
  },
  "pokora": {
@@ -836,8 +813,9 @@
   "id": "zazdrosc",
   "nazwa": "Zazdrość",
   "utwory": [
+   "stary-testament",
    "granica",
-   "stary-testament"
+   "cierpienia-mlodego-wertera"
   ]
  },
  "zbrodnia": {
@@ -881,6 +859,19 @@
   "utwory": [
    "lalka",
    "makbet"
+  ]
+ },
+ "zydzi": {
+  "id": "zydzi",
+  "nazwa": "Żydzi",
+  "utwory": [
+   "stary-testament",
+   "nowy-testament",
+   "mendel-gdanski",
+   "wesele",
+   "pan-tadeusz",
+   "lalka",
+   "ludzie-bezdomni"
   ]
  }
 }
