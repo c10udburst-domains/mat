@@ -56,9 +56,13 @@ else:
     opis = input("opis> ")
     
 opisy[opis_key] = opis
-motywy[motyw]['utwory'].append(tytul)
-utwory[tytul]['motywy'].append(motyw)
 
-json.dump(motywy, open("motywy.json", "w+", encoding='utf-8'), ensure_ascii=False, indent=4)
-json.dump(opisy, open("opisy.json", "w+", encoding='utf-8'), ensure_ascii=False, indent=4)
-json.dump(utwory, open("utwory.json", "w+", encoding='utf-8'), ensure_ascii=False, indent=4)
+motywy[motyw]['utwory'].append(tytul)
+motywy[motyw]['utwory'] = list(set(motywy[motyw]['utwory']))
+
+utwory[tytul]['motywy'].append(motyw)
+utwory[tytul]['motywy'] = list(set(utwory[tytul]['motywy']))
+
+json.dump(motywy, open("motywy.json", "w+", encoding='utf-8'), ensure_ascii=False, indent=1, sort_keys=True)
+json.dump(opisy, open("opisy.json", "w+", encoding='utf-8'), ensure_ascii=False, indent=1, sort_keys=True)
+json.dump(utwory, open("utwory.json", "w+", encoding='utf-8'), ensure_ascii=False, indent=1, sort_keys=True)

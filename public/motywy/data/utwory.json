@@ -1,579 +1,588 @@
 {
-    "antygona": {
-        "id": "antygona",
-        "motywy": [
-            "bunt",
-            "milosc",
-            "wladza",
-            "cierpienie"
-        ],
-        "tytul": "Antygona",
-        "autor": "Sofokles"
-    },
-    "balladyna": {
-        "id": "balladyna",
-        "motywy": [
-            "zbrodnia",
-            "kobieta",
-            "przemiana",
-            "kara",
-            "wladza",
-            "alkoholizm"
-        ],
-        "tytul": "Balladyna",
-        "autor": "Juliusz Słowacki"
-    },
-    "bogurodzica": {
-        "id": "bogurodzica",
-        "motywy": [
-            "bog",
-            "deesis"
-        ],
-        "tytul": "Bogurodzica"
-    },
-    "chlopi": {
-        "id": "chlopi",
-        "motywy": [
-            "milosc",
-            "malzenstwo",
-            "etyka",
-            "natura"
-        ],
-        "tytul": "Chłopi",
-        "autor": "Władysław Reymont"
-    },
-    "cierpienia-mlodego-wertera": {
-        "id": "cierpienia-mlodego-wertera",
-        "motywy": [
-            "cierpienie",
-            "dziecko",
-            "natura",
-            "artysta",
-            "samobojstwo"
-        ],
-        "tytul": "Cierpienia młodego wertera",
-        "autor": "Johann Wolfgang von Goethe"
-    },
-    "dziady-2": {
-        "id": "dziady-2",
-        "motywy": [
-            "bog",
-            "dziecko",
-            "kat",
-            "samobojstwo",
-            "kara"
-        ],
-        "tytul": "Dziady cz. II",
-        "autor": "Adam Mickiewicz"
-    },
-    "dziady-3": {
-        "id": "dziady-3",
-        "motywy": [
-            "martyrologia",
-            "mesjanizm",
-            "cierpienie",
-            "prometeizm",
-            "poeta",
-            "przemiana",
-            "bunt",
-            "kontekst-biblijny",
-            "sen",
-            "matka",
-            "smierc",
-            "bal",
-            "bog",
-            "dziecko",
-            "pielgrzym",
-            "kat",
-            "milczenie",
-            "mlodosc",
-            "patriotyzm",
-            "pokora",
-            "spoleczenstwo"
-        ],
-        "tytul": "Dziady cz. III",
-        "autor": "Adam Mickiewicz"
-    },
-    "dziady-4": {
-        "id": "dziady-4",
-        "motywy": [
-            "smierc",
-            "milosc",
-            "konflit",
-            "samobojstwo"
-        ],
-        "tytul": "Dziady cz. IV",
-        "autor": "Adam Mickiewicz"
-    },
-    "dzuma": {
-        "id": "dzuma",
-        "motywy": [
-            "apokalipsa",
-            "miasto",
-            "walka-dobra-ze-zlem",
-            "przemiana",
-            "kontekst-biblijny",
-            "choroba"
-        ],
-        "tytul": "Dżuma",
-        "autor": "Albert Camus"
-    },
-    "ferdydurke": {
-        "id": "ferdydurke",
-        "motywy": [
-            "edukacja",
-            "bunt",
-            "nauczyciel",
-            "rodzina",
-            "wedrowka"
-        ],
-        "tytul": "Ferdydurke",
-        "autor": "Witold Gombrowicz"
-    },
-    "granica": {
-        "id": "granica",
-        "motywy": [
-            "granica",
-            "cierpienie",
-            "dziecko",
-            "smierc",
-            "zazdrosc",
-            "sen",
-            "spoleczenstwo"
-        ],
-        "tytul": "Granica",
-        "autor": "Zofia Nałkowska"
-    },
-    "inny-swiat": {
-        "id": "inny-swiat",
-        "motywy": [
-            "heroizm"
-        ],
-        "tytul": "Inny Świat",
-        "autor": "Gustaw Herling-Grudziński"
-    },
-    "jadro-ciemnosci": {
-        "id": "jadro-ciemnosci",
-        "motywy": [
-            "podroz"
-        ],
-        "tytul": "Jądro ciemności",
-        "autor": "Joseph Conrad"
-    },
-    "joker": {
-        "id": "joker",
-        "motywy": [
-            "miasto"
-        ],
-        "tytul": "Joker",
-        "autor": "Todd Phillips"
-    },
-    "kamienie-na-szaniec": {
-        "id": "kamienie-na-szaniec",
-        "motywy": [
-            "patriotyzm",
-            "heroizm",
-            "patriotyzm"
-        ],
-        "tytul": "Kamienie na szaniec",
-        "autor": "Aleksander Kamiński"
-    },
-    "konrad-wallenrod": {
-        "id": "konrad-wallenrod",
-        "motywy": [
-            "patriotyzm",
-            "poezja-tyrtejska",
-            "zemsta",
-            "samotnosc",
-            "obietnica",
-            "milosc",
-            "samobojstwo",
-            "poswiecenie"
-        ],
-        "tytul": "Konrad Wallenrod",
-        "autor": "Adam Mickiewicz"
-    },
-    "kordian": {
-        "id": "kordian",
-        "motywy": [
-            "przemiana",
-            "pieniadze",
-            "szatan",
-            "spisek",
-            "samotnosc",
-            "zbrodnia",
-            "poezja",
-            "milosc",
-            "podroz",
-            "samobojstwo",
-            "patriotyzm"
-        ],
-        "tytul": "Kordian",
-        "autor": "Juliusz Słowacki"
-    },
-    "krol-edyp": {
-        "id": "krol-edyp",
-        "motywy": [
-            "wladza",
-            "rodzina",
-            "przeznaczenie",
-            "kara",
-            "bunt",
-            "zbrodnia",
-            "samobojstwo",
-            "pielgrzym"
-        ],
-        "tytul": "Król Edyp",
-        "autor": "Sofokles"
-    },
-    "lalka": {
-        "id": "lalka",
-        "motywy": [
-            "milosc",
-            "spoleczenstwo",
-            "bezdomnosc",
-            "samotnosc",
-            "praca-u-podstaw",
-            "miasto",
-            "cierpienie",
-            "bieda",
-            "nauka",
-            "kobieta",
-            "rodzina",
-            "samobojstwo",
-            "zycie-jako-teatr",
-            "sen",
-            "literatura",
-            "sztuka",
-            "nadzieja",
-            "ambicja",
-            "spelnienie",
-            "psychologia",
-            "historia",
-            "duma"
-        ],
-        "tytul": "Lalka",
-        "autor": "Bolesław Prus"
-    },
-    "ludzie-bezdomni": {
-        "id": "ludzie-bezdomni",
-        "motywy": [
-            "podroz",
-            "bezdomnosc",
-            "cierpienie",
-            "rodzina",
-            "nauka",
-            "praca",
-            "rodzina",
-            "nadzieja",
-            "bieda",
-            "ambicja"
-        ],
-        "tytul": "Ludzie Bezdomni",
-        "autor": "Stefan Żeromski"
-    },
-    "makbet": {
-        "id": "makbet",
-        "motywy": [
-            "wladza",
-            "zycie-jako-teatr",
-            "zbrodnia",
-            "kara",
-            "kobieta-fatalna",
-            "malzenstwo",
-            "los",
-            "walka-dobra-ze-zlem",
-            "samobojstwo",
-            "halucynacje",
-            "przemoc",
-            "przepowiednia",
-            "przemiana",
-            "magia",
-            "szalenstwo"
-        ],
-        "tytul": "Makbet",
-        "autor": "William Shakespeare"
-    },
-    "maly-ksiaze": {
-        "id": "maly-ksiaze",
-        "motywy": [
-            "przyjazn"
-        ],
-        "tytul": "Mały książę",
-        "autor": "Antoine de Saint-Exupéry"
-    },
-    "mendel-gdanski": {
-        "id": "mendel-gdanski",
-        "motywy": [
-            "spoleczenstwo"
-        ],
-        "tytul": "Mendel Gdański",
-        "autor": "Maria Konopnicka"
-    },
-    "mit-o-dedalu-i-ikarze": {
-        "id": "mit-o-dedalu-i-ikarze",
-        "motywy": [
-            "bunt"
-        ],
-        "tytul": "Mit o Dedalu i Ikarze"
-    },
-    "mit-o-demeter-i-korze": {
-        "id": "mit-o-demeter-i-korze",
-        "motywy": [
-            "cierpienie"
-        ],
-        "tytul": "Mit o Demeter i Korze"
-    },
-    "mit-o-prometeuszu": {
-        "id": "mit-o-prometeuszu",
-        "motywy": [
-            "bunt",
-            "kara",
-            "cierpienie"
-        ],
-        "tytul": "Mit o Prometeuszu"
-    },
-    "mit-o-syzyfie": {
-        "id": "mit-o-syzyfie",
-        "motywy": [
-            "pycha"
-        ],
-        "tytul": "Mit o Syzyfie"
-    },
-    "mit-orfeuszu-i-eurydyce": {
-        "id": "mit-orfeuszu-i-eurydyce",
-        "motywy": [
-            "milosc"
-        ],
-        "tytul": "Mit Orfeuszu i Eurydyce"
-    },
-    "moralnosc-pani-dulskiej": {
-        "id": "moralnosc-pani-dulskiej",
-        "motywy": [
-            "dziecko",
-            "bunt",
-            "moralnosc",
-            "rodzina"
-        ],
-        "tytul": "Moralność pani Dulskiej",
-        "autor": "Gabriela Zapolska"
-    },
-    "nad-niemnem": {
-        "id": "nad-niemnem",
-        "motywy": [
-            "patriotyzm"
-        ],
-        "tytul": "Nad Niemnem",
-        "autor": "Eliza Orzeszkowa"
-    },
-    "nowy-testament": {
-        "id": "nowy-testament",
-        "motywy": [
-            "milosierdzie",
-            "poswiecenie",
-            "milosc",
-            "ofiara",
-            "matka"
-        ],
-        "tytul": "Nowy Testament"
-    },
-    "opowiesc-wigilijna": {
-        "id": "opowiesc-wigilijna",
-        "motywy": [
-            "przemiana"
-        ],
-        "tytul": "Opowieść wigilijna",
-        "autor": "Charles Dickens"
-    },
-    "pan-tadeusz": {
-        "id": "pan-tadeusz",
-        "motywy": [
-            "rodzina",
-            "zareczyny",
-            "tradycja",
-            "milosc",
-            "spor",
-            "arkadia",
-            "dwor",
-            "edukacja",
-            "szczescie",
-            "zbrodnia",
-            "zemsta",
-            "nadzieja",
-            "tajemnica",
-            "przemiana",
-            "taniec",
-            "ofiara"
-        ],
-        "tytul": "Pan Tadeusz",
-        "autor": "Adam Mickiewicz"
-    },
-    "powrot-syna-marnotrawnego": {
-        "id": "powrot-syna-marnotrawnego",
-        "motywy": [
-            "ojciec"
-        ],
-        "tytul": "Powrót syna marnotrawnego",
-        "autor": "Rembrant"
-    },
-    "prosze-panstwa-do-gazu": {
-        "id": "prosze-panstwa-do-gazu",
-        "motywy": [
-            "dehumanizacja"
-        ],
-        "tytul": "Proszę państwa do gazu",
-        "autor": "Tadeusz Borowski"
-    },
-    "przedwiosnie": {
-        "id": "przedwiosnie",
-        "motywy": [
-            "rewolucja",
-            "portret-matki",
-            "patriotyzm",
-            "ojciec",
-            "matka",
-            "marzenie",
-            "ojciec",
-            "arkadia"
-        ],
-        "tytul": "Przedwiośnie",
-        "autor": "Stefan Żeromski"
-    },
-    "przeslanie-pana-cogito": {
-        "id": "przeslanie-pana-cogito",
-        "motywy": [
-            "wiernosc-idealom"
-        ],
-        "tytul": "Przesłanie Pana Cogito",
-        "autor": "Zbigniew Herbert"
-    },
-    "ranczo": {
-        "id": "ranczo",
-        "motywy": [
-            "wladza"
-        ],
-        "tytul": "Ranczo",
-        "autor": "Wojciech Adamczyk"
-    },
-    "romantycznosc": {
-        "id": "romantycznosc",
-        "motywy": [
-            "cierpienie",
-            "samotnosc"
-        ],
-        "tytul": "Romantyczność",
-        "autor": "Adam Mickiewicz"
-    },
-    "romeo-i-julia": {
-        "id": "romeo-i-julia",
-        "motywy": [
-            "bunt",
-            "samobojstwo",
-            "bal"
-        ],
-        "tytul": "Romeo i Julia",
-        "autor": "William Shakespeare"
-    },
-    "sklepy-cynamonowe": {
-        "id": "sklepy-cynamonowe",
-        "motywy": [
-            "ojciec",
-            "choroba",
-            "sen",
-            "pazernosc",
-            "miasto"
-        ],
-        "tytul": "Sklepy cynamonowe",
-        "autor": "Bruno Schulz"
-    },
-    "stary-testament": {
-        "id": "stary-testament",
-        "motywy": [
-            "poswiecenie",
-            "ufnosc",
-            "cierpienie",
-            "milosc",
-            "rodzina",
-            "niezrozumienie",
-            "matka",
-            "bog",
-            "zazdrosc"
-        ],
-        "tytul": "Stary Testament"
-    },
-    "tango": {
-        "id": "tango",
-        "motywy": [
-            "konflikt-pokolen",
-            "zdrada",
-            "taniec",
-            "rodzina",
-            "bunt",
-            "tradycja"
-        ],
-        "tytul": "Tango",
-        "autor": "Sławomir Mrożek"
-    },
-    "treny": {
-        "id": "treny",
-        "motywy": [
-            "dziecko",
-            "cierpienie"
-        ],
-        "tytul": "Treny",
-        "autor": "Jan Kochanowski"
-    },
-    "w-domach-z-betonu": {
-        "id": "w-domach-z-betonu",
-        "motywy": [
-            "dziecinstwo"
-        ],
-        "tytul": "W domach z betonu",
-        "autor": "Pr08l3m"
-    },
-    "wesele": {
-        "id": "wesele",
-        "motywy": [
-            "milosc",
-            "patriotyzm",
-            "rewolucja",
-            "chlopomania",
-            "spoleczenstwo",
-            "sen",
-            "wies"
-        ],
-        "tytul": "Wesele",
-        "autor": "Stanisław Wyspiański"
-    },
-    "zbrodnia-i-kara": {
-        "id": "zbrodnia-i-kara",
-        "motywy": [
-            "miasto",
-            "zbrodnia",
-            "przemiana",
-            "zlo",
-            "bieda",
-            "poswiecenie",
-            "kara",
-            "kobieta",
-            "rodzina",
-            "przyjazn",
-            "choroba",
-            "sen",
-            "falszywa-idea",
-            "szalenstwo"
-        ],
-        "tytul": "Zbrodnia i kara",
-        "autor": "Fiodor Dostojewski"
-    },
-    "zemsta": {
-        "id": "zemsta",
-        "motywy": [
-            "zemsta",
-            "klotnia",
-            "milosc"
-        ],
-        "tytul": "Zemsta",
-        "autor": "Aleksander Fredro"
-    }
+ "antygona": {
+  "autor": "Sofokles",
+  "id": "antygona",
+  "motywy": [
+   "poswiecenie",
+   "wladza",
+   "bunt",
+   "milosc",
+   "moralnosc",
+   "cierpienie"
+  ],
+  "tytul": "Antygona"
+ },
+ "balladyna": {
+  "autor": "Juliusz Słowacki",
+  "id": "balladyna",
+  "motywy": [
+   "zbrodnia",
+   "kobieta",
+   "przemiana",
+   "kara",
+   "wladza",
+   "alkoholizm"
+  ],
+  "tytul": "Balladyna"
+ },
+ "bogurodzica": {
+  "id": "bogurodzica",
+  "motywy": [
+   "bog",
+   "deesis"
+  ],
+  "tytul": "Bogurodzica"
+ },
+ "chlopi": {
+  "autor": "Władysław Reymont",
+  "id": "chlopi",
+  "motywy": [
+   "milosc",
+   "malzenstwo",
+   "etyka",
+   "natura"
+  ],
+  "tytul": "Chłopi"
+ },
+ "cierpienia-mlodego-wertera": {
+  "autor": "Johann Wolfgang von Goethe",
+  "id": "cierpienia-mlodego-wertera",
+  "motywy": [
+   "cierpienie",
+   "dziecko",
+   "natura",
+   "artysta",
+   "samobojstwo"
+  ],
+  "tytul": "Cierpienia młodego wertera"
+ },
+ "dziady-2": {
+  "autor": "Adam Mickiewicz",
+  "id": "dziady-2",
+  "motywy": [
+   "bog",
+   "dziecko",
+   "kat",
+   "samobojstwo",
+   "kara"
+  ],
+  "tytul": "Dziady cz. II"
+ },
+ "dziady-3": {
+  "autor": "Adam Mickiewicz",
+  "id": "dziady-3",
+  "motywy": [
+   "martyrologia",
+   "mesjanizm",
+   "cierpienie",
+   "prometeizm",
+   "poeta",
+   "przemiana",
+   "bunt",
+   "kontekst-biblijny",
+   "sen",
+   "matka",
+   "smierc",
+   "taniec",
+   "bog",
+   "dziecko",
+   "pielgrzym",
+   "kat",
+   "milczenie",
+   "mlodosc",
+   "patriotyzm",
+   "pokora",
+   "spoleczenstwo"
+  ],
+  "tytul": "Dziady cz. III"
+ },
+ "dziady-4": {
+  "autor": "Adam Mickiewicz",
+  "id": "dziady-4",
+  "motywy": [
+   "smierc",
+   "milosc",
+   "konflit",
+   "samobojstwo"
+  ],
+  "tytul": "Dziady cz. IV"
+ },
+ "dzuma": {
+  "autor": "Albert Camus",
+  "id": "dzuma",
+  "motywy": [
+   "apokalipsa",
+   "miasto",
+   "walka-dobra-ze-zlem",
+   "przemiana",
+   "kontekst-biblijny",
+   "choroba"
+  ],
+  "tytul": "Dżuma"
+ },
+ "ferdydurke": {
+  "autor": "Witold Gombrowicz",
+  "id": "ferdydurke",
+  "motywy": [
+   "edukacja",
+   "bunt",
+   "nauczyciel",
+   "rodzina",
+   "wedrowka"
+  ],
+  "tytul": "Ferdydurke"
+ },
+ "granica": {
+  "autor": "Zofia Nałkowska",
+  "id": "granica",
+  "motywy": [
+   "granica",
+   "cierpienie",
+   "dziecko",
+   "smierc",
+   "zazdrosc",
+   "sen",
+   "spoleczenstwo"
+  ],
+  "tytul": "Granica"
+ },
+ "inny-swiat": {
+  "autor": "Gustaw Herling-Grudziński",
+  "id": "inny-swiat",
+  "motywy": [
+   "heroizm"
+  ],
+  "tytul": "Inny Świat"
+ },
+ "jadro-ciemnosci": {
+  "autor": "Joseph Conrad",
+  "id": "jadro-ciemnosci",
+  "motywy": [
+   "podroz"
+  ],
+  "tytul": "Jądro ciemności"
+ },
+ "joker": {
+  "autor": "Todd Phillips",
+  "id": "joker",
+  "motywy": [
+   "miasto"
+  ],
+  "tytul": "Joker"
+ },
+ "kamienie-na-szaniec": {
+  "autor": "Aleksander Kamiński",
+  "id": "kamienie-na-szaniec",
+  "motywy": [
+   "patriotyzm",
+   "heroizm",
+   "patriotyzm",
+   "heroizm"
+  ],
+  "tytul": "Kamienie na szaniec"
+ },
+ "konrad-wallenrod": {
+  "autor": "Adam Mickiewicz",
+  "id": "konrad-wallenrod",
+  "motywy": [
+   "patriotyzm",
+   "poezja-tyrtejska",
+   "zemsta",
+   "samotnosc",
+   "obietnica",
+   "milosc",
+   "samobojstwo",
+   "poswiecenie"
+  ],
+  "tytul": "Konrad Wallenrod"
+ },
+ "kordian": {
+  "autor": "Juliusz Słowacki",
+  "id": "kordian",
+  "motywy": [
+   "przemiana",
+   "pieniadze",
+   "szatan",
+   "spisek",
+   "samotnosc",
+   "zbrodnia",
+   "poezja",
+   "milosc",
+   "podroz",
+   "samobojstwo",
+   "patriotyzm"
+  ],
+  "tytul": "Kordian"
+ },
+ "krol-edyp": {
+  "autor": "Sofokles",
+  "id": "krol-edyp",
+  "motywy": [
+   "wladza",
+   "rodzina",
+   "przeznaczenie",
+   "kara",
+   "bunt",
+   "zbrodnia",
+   "samobojstwo",
+   "pielgrzym"
+  ],
+  "tytul": "Król Edyp"
+ },
+ "lalka": {
+  "autor": "Bolesław Prus",
+  "id": "lalka",
+  "motywy": [
+   "milosc",
+   "spoleczenstwo",
+   "bezdomnosc",
+   "samotnosc",
+   "praca-u-podstaw",
+   "miasto",
+   "cierpienie",
+   "bieda",
+   "nauka",
+   "kobieta",
+   "rodzina",
+   "samobojstwo",
+   "zycie-jako-teatr",
+   "sen",
+   "literatura",
+   "sztuka",
+   "nadzieja",
+   "ambicja",
+   "spelnienie",
+   "psychologia",
+   "historia",
+   "duma"
+  ],
+  "tytul": "Lalka"
+ },
+ "ludzie-bezdomni": {
+  "autor": "Stefan Żeromski",
+  "id": "ludzie-bezdomni",
+  "motywy": [
+   "nadzieja",
+   "praca",
+   "nauka",
+   "podroz",
+   "ambicja",
+   "cierpienie",
+   "poswiecenie",
+   "bieda",
+   "rodzina",
+   "bezdomnosc"
+  ],
+  "tytul": "Ludzie Bezdomni"
+ },
+ "makbet": {
+  "autor": "William Shakespeare",
+  "id": "makbet",
+  "motywy": [
+   "wladza",
+   "zycie-jako-teatr",
+   "zbrodnia",
+   "kara",
+   "kobieta-fatalna",
+   "malzenstwo",
+   "los",
+   "walka-dobra-ze-zlem",
+   "samobojstwo",
+   "halucynacje",
+   "przemoc",
+   "przepowiednia",
+   "przemiana",
+   "magia",
+   "szalenstwo"
+  ],
+  "tytul": "Makbet"
+ },
+ "maly-ksiaze": {
+  "autor": "Antoine de Saint-Exupéry",
+  "id": "maly-ksiaze",
+  "motywy": [
+   "przyjazn"
+  ],
+  "tytul": "Mały książę"
+ },
+ "mendel-gdanski": {
+  "autor": "Maria Konopnicka",
+  "id": "mendel-gdanski",
+  "motywy": [
+   "spoleczenstwo"
+  ],
+  "tytul": "Mendel Gdański"
+ },
+ "mit-o-dedalu-i-ikarze": {
+  "id": "mit-o-dedalu-i-ikarze",
+  "motywy": [
+   "bunt"
+  ],
+  "tytul": "Mit o Dedalu i Ikarze"
+ },
+ "mit-o-demeter-i-korze": {
+  "id": "mit-o-demeter-i-korze",
+  "motywy": [
+   "cierpienie"
+  ],
+  "tytul": "Mit o Demeter i Korze"
+ },
+ "mit-o-prometeuszu": {
+  "id": "mit-o-prometeuszu",
+  "motywy": [
+   "bunt",
+   "kara",
+   "cierpienie",
+   "cierpienie"
+  ],
+  "tytul": "Mit o Prometeuszu"
+ },
+ "mit-o-syzyfie": {
+  "id": "mit-o-syzyfie",
+  "motywy": [
+   "pycha"
+  ],
+  "tytul": "Mit o Syzyfie"
+ },
+ "mit-orfeuszu-i-eurydyce": {
+  "id": "mit-orfeuszu-i-eurydyce",
+  "motywy": [
+   "milosc"
+  ],
+  "tytul": "Mit Orfeuszu i Eurydyce"
+ },
+ "moralnosc-pani-dulskiej": {
+  "autor": "Gabriela Zapolska",
+  "id": "moralnosc-pani-dulskiej",
+  "motywy": [
+   "dziecko",
+   "bunt",
+   "moralnosc",
+   "rodzina"
+  ],
+  "tytul": "Moralność pani Dulskiej"
+ },
+ "nad-niemnem": {
+  "autor": "Eliza Orzeszkowa",
+  "id": "nad-niemnem",
+  "motywy": [
+   "patriotyzm"
+  ],
+  "tytul": "Nad Niemnem"
+ },
+ "nowy-testament": {
+  "id": "nowy-testament",
+  "motywy": [
+   "milosierdzie",
+   "poswiecenie",
+   "milosc",
+   "ofiara",
+   "matka"
+  ],
+  "tytul": "Nowy Testament"
+ },
+ "opowiesc-wigilijna": {
+  "autor": "Charles Dickens",
+  "id": "opowiesc-wigilijna",
+  "motywy": [
+   "przemiana"
+  ],
+  "tytul": "Opowieść wigilijna"
+ },
+ "pan-tadeusz": {
+  "autor": "Adam Mickiewicz",
+  "id": "pan-tadeusz",
+  "motywy": [
+   "zemsta",
+   "przemiana",
+   "rodzina",
+   "tradycja",
+   "zbrodnia",
+   "tajemnica",
+   "taniec",
+   "natura",
+   "ofiara",
+   "szczescie",
+   "dwor",
+   "milosc",
+   "spor",
+   "nadzieja",
+   "patriotyzm",
+   "edukacja",
+   "zareczyny",
+   "arkadia"
+  ],
+  "tytul": "Pan Tadeusz"
+ },
+ "powrot-syna-marnotrawnego": {
+  "autor": "Rembrant",
+  "id": "powrot-syna-marnotrawnego",
+  "motywy": [
+   "ojciec"
+  ],
+  "tytul": "Powrót syna marnotrawnego"
+ },
+ "prosze-panstwa-do-gazu": {
+  "autor": "Tadeusz Borowski",
+  "id": "prosze-panstwa-do-gazu",
+  "motywy": [
+   "dehumanizacja"
+  ],
+  "tytul": "Proszę państwa do gazu"
+ },
+ "przedwiosnie": {
+  "autor": "Stefan Żeromski",
+  "id": "przedwiosnie",
+  "motywy": [
+   "rewolucja",
+   "portret-matki",
+   "patriotyzm",
+   "ojciec",
+   "matka",
+   "marzenie",
+   "ojciec",
+   "arkadia",
+   "ojciec"
+  ],
+  "tytul": "Przedwiośnie"
+ },
+ "przeslanie-pana-cogito": {
+  "autor": "Zbigniew Herbert",
+  "id": "przeslanie-pana-cogito",
+  "motywy": [
+   "wiernosc-idealom"
+  ],
+  "tytul": "Przesłanie Pana Cogito"
+ },
+ "ranczo": {
+  "autor": "Wojciech Adamczyk",
+  "id": "ranczo",
+  "motywy": [
+   "wladza"
+  ],
+  "tytul": "Ranczo"
+ },
+ "romantycznosc": {
+  "autor": "Adam Mickiewicz",
+  "id": "romantycznosc",
+  "motywy": [
+   "cierpienie",
+   "samotnosc"
+  ],
+  "tytul": "Romantyczność"
+ },
+ "romeo-i-julia": {
+  "autor": "William Shakespeare",
+  "id": "romeo-i-julia",
+  "motywy": [
+   "bunt",
+   "taniec",
+   "samobojstwo"
+  ],
+  "tytul": "Romeo i Julia"
+ },
+ "sklepy-cynamonowe": {
+  "autor": "Bruno Schulz",
+  "id": "sklepy-cynamonowe",
+  "motywy": [
+   "ojciec",
+   "choroba",
+   "sen",
+   "pazernosc",
+   "miasto"
+  ],
+  "tytul": "Sklepy cynamonowe"
+ },
+ "stary-testament": {
+  "id": "stary-testament",
+  "motywy": [
+   "poswiecenie",
+   "ufnosc",
+   "cierpienie",
+   "milosc",
+   "rodzina",
+   "niezrozumienie",
+   "matka",
+   "bog",
+   "zazdrosc"
+  ],
+  "tytul": "Stary Testament"
+ },
+ "tango": {
+  "autor": "Sławomir Mrożek",
+  "id": "tango",
+  "motywy": [
+   "konflikt-pokolen",
+   "zdrada",
+   "taniec",
+   "rodzina",
+   "bunt",
+   "tradycja"
+  ],
+  "tytul": "Tango"
+ },
+ "treny": {
+  "autor": "Jan Kochanowski",
+  "id": "treny",
+  "motywy": [
+   "dziecko",
+   "cierpienie"
+  ],
+  "tytul": "Treny"
+ },
+ "w-domach-z-betonu": {
+  "autor": "Pr08l3m",
+  "id": "w-domach-z-betonu",
+  "motywy": [
+   "dziecinstwo"
+  ],
+  "tytul": "W domach z betonu"
+ },
+ "wesele": {
+  "autor": "Stanisław Wyspiański",
+  "id": "wesele",
+  "motywy": [
+   "milosc",
+   "patriotyzm",
+   "rewolucja",
+   "chlopomania",
+   "spoleczenstwo",
+   "sen",
+   "wies",
+   "taniec"
+  ],
+  "tytul": "Wesele"
+ },
+ "zbrodnia-i-kara": {
+  "autor": "Fiodor Dostojewski",
+  "id": "zbrodnia-i-kara",
+  "motywy": [
+   "miasto",
+   "zbrodnia",
+   "przemiana",
+   "zlo",
+   "bieda",
+   "poswiecenie",
+   "kara",
+   "kobieta",
+   "rodzina",
+   "przyjazn",
+   "choroba",
+   "sen",
+   "falszywa-idea",
+   "szalenstwo",
+   "halucynacje"
+  ],
+  "tytul": "Zbrodnia i kara"
+ },
+ "zemsta": {
+  "autor": "Aleksander Fredro",
+  "id": "zemsta",
+  "motywy": [
+   "zemsta",
+   "klotnia",
+   "milosc"
+  ],
+  "tytul": "Zemsta"
+ }
 }
