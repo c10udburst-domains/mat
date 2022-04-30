@@ -342,7 +342,8 @@
             "lalka",
             "dzuma",
             "zbrodnia-i-kara",
-            "joker"
+            "joker",
+            "sklepy-cynamonowe"
         ]
     },
     "milczenie": {
@@ -366,7 +367,8 @@
             "stary-testament",
             "nowy-testament",
             "chlopi",
-            "mit-orfeuszu-i-eurydyce"
+            "mit-orfeuszu-i-eurydyce",
+            "zemsta"
         ]
     },
     "milosierdzie": {
@@ -457,7 +459,8 @@
             "dziady-3",
             "przedwiosnie",
             "kamienie-na-szaniec",
-            "nad-niemnem"
+            "nad-niemnem",
+            "kamienie-na-szaniec"
         ]
     },
     "pazernosc": {
@@ -532,7 +535,8 @@
         "utwory": [
             "zbrodnia-i-kara",
             "stary-testament",
-            "nowy-testament"
+            "nowy-testament",
+            "konrad-wallenrod"
         ]
     },
     "praca": {
@@ -877,6 +881,13 @@
         "nazwa": "Moralność",
         "utwory": [
             "moralnosc-pani-dulskiej"
+        ]
+    },
+    "klotnia": {
+        "id": "klotnia",
+        "nazwa": "Kłótnia",
+        "utwory": [
+            "zemsta"
         ]
     }
 }

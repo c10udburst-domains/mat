@@ -2,3 +2,4 @@
     - [Twier](interia/twier.html)
 - [Fizyka](fiz.html)
 - [Motywy](motywy)
+- [Lektury](lektury.html)

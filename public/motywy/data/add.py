@@ -49,7 +49,7 @@ else:
     motyw = motyw['id']
     
 opis_key = f"{tytul}|{motyw}"
-if opis_key in opisy.keys():
+if opis_key in opisy.keys() and opisy[opis_key].strip():
     print(opisy[opis_key])
     raise SystemExit(0)
 else:

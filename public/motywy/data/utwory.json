@@ -172,7 +172,8 @@
         "id": "kamienie-na-szaniec",
         "motywy": [
             "patriotyzm",
-            "heroizm"
+            "heroizm",
+            "patriotyzm"
         ],
         "tytul": "Kamienie na szaniec",
         "autor": "Aleksander Kamiński"
@@ -186,7 +187,8 @@
             "samotnosc",
             "obietnica",
             "milosc",
-            "samobojstwo"
+            "samobojstwo",
+            "poswiecenie"
         ],
         "tytul": "Konrad Wallenrod",
         "autor": "Adam Mickiewicz"
@@ -478,7 +480,8 @@
             "ojciec",
             "choroba",
             "sen",
-            "pazernosc"
+            "pazernosc",
+            "miasto"
         ],
         "tytul": "Sklepy cynamonowe",
         "autor": "Bruno Schulz"
@@ -566,7 +569,9 @@
     "zemsta": {
         "id": "zemsta",
         "motywy": [
-            "zemsta"
+            "zemsta",
+            "klotnia",
+            "milosc"
         ],
         "tytul": "Zemsta",
         "autor": "Aleksander Fredro"

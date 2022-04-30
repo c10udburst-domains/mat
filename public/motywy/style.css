@@ -2,8 +2,10 @@
     display: flex;
     justify-content: center;
     border-bottom: solid 1px;
+    width: 100%;
 }
 #filter-bar select {
+    width: 50%;
     margin: 1rem;
     padding: 0.5rem;
     border-radius: 10px;
