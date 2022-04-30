@@ -1,5 +1,6 @@
 - [Matematyka](math.html)
     - [Twier](interia/twier.html)
 - [Fizyka](fiz.html)
-- [Motywy](motywy)
+    - [Zeszyt](fiz-zeszyt/index.html)
+- [Motywy](motywy/index.html)
 - [Lektury](lektury.html)
