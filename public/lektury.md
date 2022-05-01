@@ -3,40 +3,40 @@
 - [ ] Bogurodzica
 - [ ] Dziady cz. III _Adam Mickiewicz_
 - [ ] Pan Tadeusz _Adam Mickiewicz_
-- [ ] Lalka
-- [ ] Wesele
-- [ ] Ferdydurke
+- [ ] Lalka _Bolesław Prus_
+- [ ] Wesele _Stanisław Wyspiański_
+- [ ] Ferdydurke _Witold Gombrowicz_
 <br>
-- [ ] Zemsta
+- [ ] Zemsta _Aleksander Fredro_
 - [ ] Dziady cz. II _Adam Mickiewicz_
 
 # Wybór
-- [ ] Quo vadis
-- [ ] Bajki
-- [ ] Sklepy Cynamonowe
-- [ ] Treny
+- [ ] Quo vadis _Henryk Sienkiewicz_
+- [ ] Bajki _Ignacy Krasicki_
+- [ ] Sklepy Cynamonowe _Bruno Schulz_
+- [ ] Treny _Jan Kochanowski_
 
 # Przydatne
 - [ ] Zbrodnia i kara _Fiodor Dostojewski_
-- [ ] Ludzie bezdomni
-- [ ] Makbet
-- [ ] Król Edyp
+- [ ] Ludzie bezdomni _Stefan Żeromski_
+- [ ] Makbet _William Shakespeare_
+- [ ] Król Edyp _Sofokles_
 - [ ] Konrad Wallenrod _Adam Mickiewicz_
-- [ ] Kordian
-- [ ] Antygona
-- [ ] Tango
-- [ ] Dżuma
-- [ ] Granica
-- [ ] Chłopi
-- [ ] Moralność pani Dulskiej
-- [ ] Hamlet
+- [ ] Kordian _Juliusz Słowacki_
+- [ ] Antygona _Sofokles_
+- [ ] Tango _Sławomir Mrożek_
+- [ ] Dżuma _Albert Camus_
+- [ ] Granica _Zofia Nałkowska_
+- [ ] Chłopi _Władysław Reymont_
+- [ ] Moralność pani Dulskiej _Gabriela Zapolska_
+- [ ] Hamlet _William Shakespeare_
 - [ ] Dziady cz. IV _Adam Mickiewicz_
-- [ ] Kamienie na szaniec
-- [ ] Mendel Gdański
-- [ ] Inny świat
-- [ ] Zdążyć przed panem Bogiem
-- [ ] Cierpienia młodego wertera
-- [ ] Nad Niemnem
+- [ ] Kamienie na szaniec _Aleksander Kamiński_
+- [ ] Mendel Gdański _Maria Konopnicka_
+- [ ] Inny świat _Gustaw Herling-Grudziński_
+- [ ] Zdążyć przed panem Bogiem _Hanna Krall, Marek Edelman_
+- [ ] Cierpienia młodego wertera _Johann Wolfgang von Goethe_
+- [ ] Nad Niemnem _Eliza Orzeszkowa_
 - [ ] Latarnik _Henryk Sienkiewicz_
 
 <script>
