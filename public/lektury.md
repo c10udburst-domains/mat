@@ -42,11 +42,11 @@
 <script>
     // save
     window.addEventListener('beforeunload', function (e) {
-        window.localStorage.checked_lektury = Array.from(document.querySelectorAll("input.task-list-item-checkbox")).filter((it)=>it.checked).map((it)=>it.parentNode.innerHTML)
+        window.localStorage.checked_lektury = Array.from(document.querySelectorAll("input.task-list-item-checkbox")).filter((it)=>it.checked).map((it)=>it.parentNode.innerText)
     })
 
     // load
-    Array.from(document.querySelectorAll("li.task-list-item")).filter((it)=>(window.localStorage.checked_lektury||[]).includes(it.innerHTML)).forEach((it) => {
+    Array.from(document.querySelectorAll("li.task-list-item")).filter((it)=>(window.localStorage.checked_lektury||[]).includes(it.innerText)).forEach((it) => {
         it.querySelector("input.task-list-item-checkbox").checked = true
     })
 
