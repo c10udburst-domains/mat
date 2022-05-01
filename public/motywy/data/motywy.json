@@ -484,10 +484,10 @@
   "id": "poezja",
   "nazwa": "Poezja",
   "utwory": [
-    "cierpienia-mlodego-wertera",
-    "dziady-3",
-    "kordian",
-    "konrad-wallenrod"
+   "cierpienia-mlodego-wertera",
+   "dziady-3",
+   "kordian",
+   "konrad-wallenrod"
   ]
  },
  "pokora": {
@@ -527,7 +527,8 @@
   "id": "praca-u-podstaw",
   "nazwa": "Praca u podstaw",
   "utwory": [
-   "lalka"
+   "lalka",
+   "ludzie-bezdomni"
   ]
  },
  "prometeizm": {
