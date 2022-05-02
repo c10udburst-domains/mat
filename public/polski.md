@@ -84,6 +84,7 @@ _mogą być liczebnikiem nieokreślonym_
 - III rozbiór Polski `1795`
 
 ## Powstania
+- Konfederacja barska `1768`
 - Powstanie listopadowe `1830–1831`
 - Rabacja galicyjska `1846`
 - Powstanie styczniowe `1863–1864`
