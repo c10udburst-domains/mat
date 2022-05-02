@@ -40,14 +40,18 @@
 - [ ] Latarnik _Henryk Sienkiewicz_
 
 <script>
-    // save
-    window.addEventListener('beforeunload', function (e) {
-        window.localStorage.checked_lektury = Array.from(document.querySelectorAll("input.task-list-item-checkbox")).filter((it)=>it.checked).map((it)=>it.parentNode.innerText)
-    })
+    
+    if (!window.location.protocol.startsWith("vscode")) {
+        // save
+        window.addEventListener('beforeunload', function (e) {
+            window.localStorage.checked_lektury = Array.from(document.querySelectorAll("input.task-list-item-checkbox")).filter((it)=>it.checked).map((it)=>it.parentNode.innerText)
+        })
 
-    // load
-    Array.from(document.querySelectorAll("li.task-list-item")).filter((it)=>(window.localStorage.checked_lektury||[]).includes(it.innerText)).forEach((it) => {
-        it.querySelector("input.task-list-item-checkbox").checked = true
-    })
+        // load
+        Array.from(document.querySelectorAll("li.task-list-item")).filter((it)=>(window.localStorage.checked_lektury||[]).includes(it.innerText)).forEach((it) => {
+            it.querySelector("input.task-list-item-checkbox").checked = true
+        })
+    }
+    
 
 </script>

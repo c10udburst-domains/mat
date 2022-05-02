@@ -4,6 +4,11 @@ html:
     embed_svg: false
 ---
 
+<style>
+html[data-darkreader-scheme="dark"] img {
+    filter: invert(1);
+}
+</style>
 # Nierówność Cauchy'ego
 dla $a_1, a_2, a_3, ..., a_n > 0$ zachodzi nierówność:
 
