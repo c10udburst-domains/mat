@@ -189,6 +189,16 @@ _mogą być liczebnikiem nieokreślonym_
     - skierowane do biskupów i do wiernych
     - odnosi się do spraw doktrynalnych i organizacyjnych
 
+# Funkcje języka
+- informatywna
+- ekspresywna
+- impresywna
+- poetycka
+- metajęzykowa
+- fatyczna
+- magiczna
+- stanowiąca
+
 # Kontekst historyczny
 
 - Konstytucja 3. maja `1791`
@@ -209,5 +219,5 @@ _mogą być liczebnikiem nieokreślonym_
 - Powstanie warszawskie `1944`
 
 # Google Trends
-- [Motywy](https://trends.google.pl/trends/explore?date=now+1-d&geo=PL&q=%2Fg%2F11cfjqnr7%2C%2Fm%2F04rm4z%2C%2Fm%2F05kxhy%2C%2Fm%2F02q2jy0%2C%2Fm%2F0dkwvn)
-- [Lektury](https://trends.google.pl/trends/explore?date=now+1-d&geo=PL&q=%2Fg%2F11cfjqnr7%2C%2Fm%2F04rm4z%2C%2Fm%2F05kxhy%2C%2Fm%2F02q2jy0)
+- [Lektury](https://trends.google.pl/trends/explore?date=now+1-d&geo=PL&q=%2Fg%2F11cfjqnr7%2C%2Fm%2F04rm4z%2C%2Fm%2F05kxhy%2C%2Fm%2F02q2jy0%2C%2Fm%2F0dkwvn)
+- [Motywy](https://trends.google.pl/trends/explore?date=now+1-d&geo=PL&q=motyw+wartości%2Cmotyw+ojca%2Cmotyw+ojczyzny%2Cmotyw+patriotyzmu%2Cmotyw+przemiany%2Cmotyw+kobiety%2Cmotyw+godności)
