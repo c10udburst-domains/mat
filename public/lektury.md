@@ -27,7 +27,7 @@
 - [ ] Tango _Sławomir Mrożek_
 - [ ] Dżuma _Albert Camus_
 - [ ] Granica _Zofia Nałkowska_
-- [ ] Przedwiośnie_Stefan Żeromski_
+- [ ] Przedwiośnie _Stefan Żeromski_
 - [ ] Chłopi _Władysław Reymont_
 - [ ] Moralność pani Dulskiej _Gabriela Zapolska_
 - [ ] Hamlet _William Shakespeare_

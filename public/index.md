@@ -11,4 +11,3 @@
 - [Polski](polski.html)
     - [Motywy](motywy/index.html)
     - [Lektury](lektury.html)
-    - [Maksymy](maksymy.html)

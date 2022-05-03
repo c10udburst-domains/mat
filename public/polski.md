@@ -1,9 +1,39 @@
 ---
 title: "Polski"
 ---
+<details>
+    <summary>Maksymy</summary>
+
+| . | . |
+| :---: | :---: |
+| non omnis moriar | nie wszystek umrę |
+| exegi monumentum | pomnik stworzyłem trwalszy niż ze spiżu |
+| carpe diem | chwytaj dzień |
+| aurea mediocritas | złoty środek |
+| theatrum mundi | życie to teatr |
+| vanitas vanitatum et omnia vanitas | marność nad marnościami i  wszystko marność |
+| danse macabre | taniec śmierci |
+| deesis | prośby,błagania |
+| ars moriendi | sztuka pięknego umierania |
+| chansons de geste | pieśń o czynach |
+| stabat mater dolorosa | stała matka pod krzyżem |
+| panta rhei | wszystko podlega wiecznym przemianom |
+| ubi sunt? | gdzie oni są |
+| memento mori | pamiętaj o śmierci |
+| amor vincit omnia | miłość wszystko zwycięża |
+| cogito,ergo sum | myślę, więc jestem |
+| dies irae | dzień gniewu |
+| dum spiro, spero | dopóki oddycham, nie tracę nadziei |
+| gloria victis | chwała zwyciężonym |
+| homo homini lupus est | człowiek człowiekowi wilkiem |
+| inter malleum et incudem | między młotem, a kowadłem |
+| pro publico bono | dla dobra ogółu |
+| vince in bono malum | zło dobrem zwyciężaj |
+</details>
+
 
 <details>
-    <summary>pierdoły</summary>
+    <summary>Gramatyka</summary>
 
 # Gramatyka
 
@@ -73,8 +103,91 @@ _mogą być liczebnikiem nieokreślonym_
 - Współczesność
 
 # Utwory
-- Akcja _Pana Tadeusza_ `1811-1812`
-- Główna akcja _Lalki_ `1878-1879`
+- Bogurodzica
+    - epoka: `średniowiecze`
+    - gatunek: `pieśń/hymn`
+- Dziady cz. III _Adam Mickiewicz_
+    - epoka: `romantyzm`
+    - gatunek: `dramat romantyczny`
+    - czas: `1823-1824`
+    - miejsce: `Wilno`
+- Pan Tadeusz _Adam Mickiewicz_
+    - epoka: `romantyzm`
+    - gatunek: `epopeja`
+    - czas: `1811-1812`
+    - miejsce: `Soplicowo`
+- Lalka _Bolesław Prus_
+    - epoka: `pozytywizm`
+    - gatunek: `powieść społeczno-obyczajowa`
+    - czas: `1878-1879`
+    - miejsce: `Warszawa`
+- Wesele _Stanisław Wyspiański_
+    - epoka: `młoda polska`
+    - gatunek: `dramat symboliczny`
+    - czas: `1900`
+    - miejsce: `Bronowice`
+- Ferdydurke _Witold Gombrowicz_
+    - epoka: `dwudziestolecie`
+    - gatunek: `powieść awangardowa`
+    - czas: `XX w`
+    - miejsce: `Warszawa`
+<br>
+- Zemsta Aleksander Fredro
+    - epoka: `romantyzm`
+    - gatunek: `komedia`
+    - czas: `xviii-xix`
+
+# Style
+- potoczny
+    - frazeologizmy
+    - proste/uproszczone zdania
+    - elipsy
+    - norma użytkowa
+- naukowy
+    - poprawna polszczyzna
+    - precyzja
+    - terminologia naukowa
+    - zdania wielokrotnie złożone
+    - norma wzorcowa
+- styl urzędowy
+    - podział na paragrafy czy punkty
+    - bezosobowa forma (`-no`, `-to`)
+    - powtórzenia
+    - charakterystyczne zwroty _( Szanowny/a Pan/i, uprzejmie informuję, z poważaniem itp.)_
+- styl publicystyczny
+    - komunikatywność, jasność wypowiedzi
+    - elementy oceny, subiektywnego sądu
+    - sugestywny i obrazowy
+    - frazeologizmy
+- styl artystyczny
+    - wyszukane słownictwo
+    - wiele środków stylistycznych
+- styl retoryczny
+    - środki językowe
+    - argumenty
+    - zabiegi ukierunkowywujące wypowiedź
+
+# Gatunki
+- felieton
+    - krótki utwór publicystyczno-dziennikarski
+    - na tematy polityczne, społeczne, obyczajowe i kulturalne
+    - posługujący się środkami prozy fabularnej
+    - napisany w sposób lekki i efektowny
+    - utrzymany w osobistym tonie
+- repotaż
+    - przedstawianie realnych zdarzeń
+    - rzetelność i autentyczność
+    - relacje z określonych wydarzeń, których naocznym świadkiem był sam autor
+- przemówienie
+    - formalny charakter
+    - uporządkowana treść
+    - zrozumiały język
+    - zwięzłość
+    - upiększanie i uwiarygadnianie
+- encyklika
+    - napisane przez papieża
+    - skierowane do biskupów i do wiernych
+    - odnosi się do spraw doktrynalnych i organizacyjnych
 
 # Kontekst historyczny
 
