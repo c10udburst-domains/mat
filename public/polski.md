@@ -111,21 +111,105 @@ _mogą być liczebnikiem nieokreślonym_
     - gatunek: `dramat romantyczny`
     - czas: `1823-1824`
     - miejsce: `Wilno`
+        <details><summary>bohaterowie</summary>
+
+        - Konrad
+        - Ksiądz Piotr
+        - Jakub
+        - Adolf
+        - Cichowski
+        - Żegota
+        - Tomasz
+        - Jan Sobolewski
+        - Wasilewski
+        - Senator Nowosilcow
+        - Bestużew
+        - Anioły
+        - Diabły
+        - Doktor _(ojczym Słowackiego)_
+        - Ewa
+        - Frejend
+        - Rollison
+        - Rollisonowa
+        - Piotr Wysocki
+
+        </details>
 - Pan Tadeusz _Adam Mickiewicz_
     - epoka: `romantyzm`
     - gatunek: `epopeja`
     - czas: `1811-1812`
     - miejsce: `Soplicowo`
+        <details><summary>bohaterowie</summary>
+
+        - Tadeusz Soplica
+        - Zosia
+        - Jacek Soplica / Ksiądz Robak
+        - Sędzia Soplica
+        - Telimena
+        - Gerwazy Rębajło
+        - Protazy
+        - Jankiel
+        - Wojski Hreczecha
+        - Rejent
+        - Asesor
+        - Maciej Dobrzyński
+
+        </details>  
 - Lalka _Bolesław Prus_
     - epoka: `pozytywizm`
     - gatunek: `powieść społeczno-obyczajowa`
     - czas: `1878-1879`
     - miejsce: `Warszawa`
+        <details><summary>bohaterowie</summary>
+
+        - Stanisław Wokulski
+        - Izabela Łęcka
+        - Tomasz Łęcki
+        - Prezesowa Zasławska
+        - Książe
+        - Pani Wąsowska
+        - Julian Ochocki
+        - Kazimierz Starski
+        - Baronostwo Krzeszowscy
+        - Helena Stawska
+        - Ignacy Rzecki 
+        - Mraczewski, Lisiecki, Klejn, Zięba
+        - Henryk Szlangbaum
+        - Michał Szuman
+        - Prof. Geist
+        - Wysocki
+        - Węgiełek
+        - Prostytutka Marianna 
+
+        </details>
+
 - Wesele _Stanisław Wyspiański_
     - epoka: `młoda polska`
     - gatunek: `dramat symboliczny`
     - czas: `1900`
     - miejsce: `Bronowice`
+        <details><summary>bohaterowie</summary>
+
+        - Gospodarz _(Włodzimierz Tetmajer)_
+        - Gospodyni _(Anna)_
+        - Pan Młody _(Lucjan Rydel)_
+        - Panna Młoda _(Jadwiga)_
+        - Poeta _(Kazimierz Tetmajer)_
+        - Dziennikarz _(Rudolf Starzewski)_
+        - Rachela _(Pepa Singer)_
+        - Żyd _(Hersz Singer)_
+        - Ksiądz
+        - Dziad
+        - Czepiec _(Błażej)_
+        <br>
+        - Chochoł
+        - Stańczyk
+        - Rycerz _(Zawisza Czarny)_
+        - Hetman _(Branicki)_
+        - Wernyhora
+        - Upiór _(Jakub Szela)_
+
+        </details>
 - Ferdydurke _Witold Gombrowicz_
     - epoka: `dwudziestolecie`
     - gatunek: `powieść awangardowa`
