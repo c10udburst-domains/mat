@@ -72,11 +72,16 @@ _mogą być liczebnikiem nieokreślonym_
 - II Wojna Światowa
 - Współczesność
 
+# Utwory
+- Akcja _Pana Tadeusza_ `1811-1812`
+- Główna akcja _Lalki_ `1878-1879`
+
 # Kontekst historyczny
 
 - Konstytucja 3. maja `1791`
 - Kampania napoleona `1812`
 - Polska nie istnieje w latach `1795 - 1918`
+- Wiosna Ludów `1848`
 
 ## Rozbiory
 - I rozbiór Polski `1772`
@@ -89,3 +94,7 @@ _mogą być liczebnikiem nieokreślonym_
 - Rabacja galicyjska `1846`
 - Powstanie styczniowe `1863–1864`
 - Powstanie warszawskie `1944`
+
+# Google Trends
+- [Motywy](https://trends.google.pl/trends/explore?date=now+1-d&geo=PL&q=%2Fg%2F11cfjqnr7%2C%2Fm%2F04rm4z%2C%2Fm%2F05kxhy%2C%2Fm%2F02q2jy0%2C%2Fm%2F0dkwvn)
+- [Lektury](https://trends.google.pl/trends/explore?date=now+1-d&geo=PL&q=%2Fg%2F11cfjqnr7%2C%2Fm%2F04rm4z%2C%2Fm%2F05kxhy%2C%2Fm%2F02q2jy0)
