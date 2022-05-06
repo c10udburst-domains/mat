@@ -77,6 +77,15 @@ dowód nie wprost: $f(x_1) = f(x_2) \Rightarrow x_1 = x_2$
 <br>
 - $tg\ x = \frac{2tg\frac{x}{2}}{1\ -\ tg^2\frac{x}{2}} = \frac{2t}{1\ -\ t^2}$
 
+# Wielokąt
+
+Dla $n$-kąta:
+- Liczba przekątnych: $\frac{n(n-3)}{2}$
+- Suma kątów wewnętrznych $S = (n-2) \cdot 180^{\circ}$
+
+Dla $n$-kąta **foremnego**:
+- Miara kąta wewnętrznego $|\alpha| = \frac{(n-2) \cdot 180^{\circ}}{n}$
+
 # Odcinki w trójkącie
 
 ## Przecięcia odcinków
@@ -153,6 +162,12 @@ $P=\frac{1}{2} \cdot (a+b+c+d) \cdot r$
 | <img src="assets/math/szescian_40.png" width="200px"> | <img src="assets/math/szescian_54.png" width="200px"> | <img src="assets/math/szescian_60.png" width="200px"> |
 |:---:|:---:|:---:|
 | $tg\ \alpha < \sqrt{2} \Leftrightarrow \alpha < 54^{\circ}$ | $tg\ \alpha = \sqrt{2} \Rightarrow \alpha \approx 54^{\circ}$ | $tg\ \alpha > \sqrt{2} \Leftrightarrow \alpha > 54^{\circ}$ |
+
+# Ilości w bryłach
+| Bryła o podstawie $n$-kąta | Wierzchołki | Krawędzie | Ściany | Ściany Boczne |
+|:---:|:---:|:---:|:---:|:---:|
+| Graniastosłup | $2n$ | $3n$ | $n+2$ | $n$ |
+| Ostrosłup | $n+1$ | $2n$ | $n+1$ | n |
 
 # Kombinatoryka
 Rozmiar wyjściowego zbioru: $n$
