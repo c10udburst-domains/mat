@@ -26,7 +26,7 @@ html body strong {
 }
 
 * {
-    cursor: url(https://ani.cursors-4u.net/cursors/cur-13/cur1157.ani), url(https://ani.cursors-4u.net/cursors/cur-13/cur1157.png), auto !important;
+    cursor: url('https://everest-pipkin.com/projects/cursor/g.gif'), auto !important;
 }
 
 ::-webkit-scrollbar-thumb {
