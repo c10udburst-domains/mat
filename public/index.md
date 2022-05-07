@@ -1,3 +1,5 @@
+<script src="geocities.js"></script>
+
 <style>
     .mume {
         font-size: x-large;

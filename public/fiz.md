@@ -4,6 +4,8 @@ html:
     embed_svg: false
 ---
 
+<script src="geocities.js"></script>
+
 # Mechanika
 
 $S = vt \Leftrightarrow \vec{V} = \frac{d\vec{r}}{dt}$

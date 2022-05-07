@@ -1,3 +1,5 @@
+<script src="geocities.js"></script>
+
 # Z gwiazdką (całe)
 
 - [ ] Bogurodzica

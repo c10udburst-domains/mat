@@ -1,0 +1,77 @@
+html body {
+    background-image: url('https://assets.codepen.io/729148/spacebgani.gif');
+    font-family: 'Comic Sans MS', 'Times New Roman', serif;
+    color: aqua;
+}
+
+html body h1, html body h2 {
+    color: magenta;
+}
+
+img {
+    background-color: white;
+    border: outset 5px;
+}
+
+html body table th {
+    color: yellow;
+}
+
+html body strong {
+    color: crimson;
+}
+
+.katex {
+    color: orange;
+}
+
+* {
+    cursor: url(https://ani.cursors-4u.net/cursors/cur-13/cur1157.ani), url(https://ani.cursors-4u.net/cursors/cur-13/cur1157.png), auto !important;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: silver;
+    border-left: ridge 2px #fff;
+    border-top: ridge 2px #fff;
+    border-right: ridge 2px grey;
+    border-bottom: ridge 2px grey;
+}
+
+::-webkit-scrollbar-track {
+    background-size: 2px;
+    background-image: url('https://www.cameronsworld.net/img/ui/bg-scrollbar-track.png');
+}
+
+::-webkit-scrollbar {
+    width: 21px;
+    height: 21px;
+}
+
+.mume::before {
+    content: ' ';
+    display: block;
+    height: 166px;
+    width: 100%;
+    background-image: url('https://www.cameronsworld.net/img/content/16/3.gif');
+    background-repeat: repeat;
+}
+
+@keyframes scrolling {
+    0% {
+        background-position-x: 0px;
+    }
+    100% {
+        background-position-x: 410px;
+    }
+}
+
+h1::before {
+    content: ' ';
+    display: block;
+    background-image: url('https://www.cameronsworld.net/img/content/9/17.png');
+    background-repeat: repeat;
+    left: 0;
+    width: 100%;
+    height: 28px;
+    animation: scrolling 15s linear infinite;
+}

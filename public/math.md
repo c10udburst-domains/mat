@@ -4,6 +4,8 @@ html:
     embed_svg: false
 ---
 
+<script src="geocities.js"></script>
+
 <style>
 html[data-darkreader-scheme="dark"] img {
     filter: invert(1);
@@ -167,7 +169,7 @@ $P=\frac{1}{2} \cdot (a+b+c+d) \cdot r$
 | Bryła o podstawie $n$-kąta | Wierzchołki | Krawędzie | Ściany | Ściany Boczne |
 |:---:|:---:|:---:|:---:|:---:|
 | Graniastosłup | $2n$ | $3n$ | $n+2$ | $n$ |
-| Ostrosłup | $n+1$ | $2n$ | $n+1$ | n |
+| Ostrosłup | $n+1$ | $2n$ | $n+1$ | $n$ |
 
 # Kombinatoryka
 Rozmiar wyjściowego zbioru: $n$

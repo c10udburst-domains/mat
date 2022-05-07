@@ -1,6 +1,9 @@
 ---
 title: "Polski"
 ---
+
+<script src="geocities.js"></script>
+
 <details>
     <summary>Maksymy</summary>
 
