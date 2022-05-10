@@ -54,6 +54,12 @@ dla $n\in\Z$:
 
 $\frac{1}{n \cdot (n+1)} = \frac{1}{n} - \frac{1}{n+1}$
 
+# Ilość rozwiązań równania liniowego
+Dla $ax+b = 0$:
+- $1$ rozwiązanie, gdy $a \neq 0 \Leftrightarrow x = -\frac{b}{a}$
+- $\infty$ rozwiązań, gdy $a=0\ \wedge\ b=0$
+- $0$ rozwiązań, gdy $a=0 \wedge b \neq 0$
+
 # Wzory Vieta dla równań 3go stopnia
 
 dla $ax^3 + bx^2 + cx + d =0$:
@@ -61,6 +67,13 @@ dla $ax^3 + bx^2 + cx + d =0$:
 $x_1 + x_2 + x_3 = -\frac{b}{a}$
 $x_1 \cdot x_2\ \ +\ \ x_1 \cdot x_3\ \ +\ \ x_2 \cdot x_3 = \frac{c}{a}$
 $x_1 \cdot x_2 \cdot x_3 = -\frac{d}{a}$
+
+# Wzory skóconego mnożenia
+- $(a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ac$
+- $(a-b+c)^2 = a^2 + b^2 + c^2 - 2ab - 2bc + 2ac$
+- $(a+b-c)^2 = a^2 + b^2 + c^2 + 2ab - 2bc - 2ac$
+- $(a-b-c)^2 = a^2 + b^2 + c^2 - 2ab + 2bc - 2ac$
+- $(a+b+c)^3 = a^3 + b^3 + c^3 + 3\cdot(a^2b + a^2c + b^2a + b^2c + c^2a + c^2b) + 6abc$
 
 # Sumy współczynników wielomianu
 - Wyraz wolny:
@@ -72,11 +85,15 @@ $\frac{W(1) - W(-1)}{2}$
 - Suma współczynników przy potęgach **parzystych**:
 $\frac{W(1) + W(-1)}{2}$
 
-# Twierdzenie Fermata
-Dla każdego $n > 2 \wedge n \in \Z$ równanie $x^n + y^n = z^n$ nie ma rozwiązań $x, y, z$ w **liczbach naturalnych** 
+# Dowody z definicji dla funkcji i ciagów
+## Różnowartościowość
 
-# Wykazywanie różnowartościowości funkcji
 dowód nie wprost: $f(x_1) = f(x_2) \Rightarrow x_1 = x_2$
+
+## Monotoniczność
+- jeśli $f(x) \searrow$ to $x_1 < x_2 \Rightarrow f(x_1) > f(x_2)$
+- jeśli $f(x) \nearrow$ to $x_1 < x_2 \Rightarrow f(x_1) < f(x_2)$
+- jeśli $f(x) \rightarrow$ to $f(x) = constans$
 
 # Zamiana funkcji trygonometrycznych na równania wymierne
 - $sin\ x = \frac{2tg\frac{x}{2}}{1\ +\ tg^2\frac{x}{2}} = \frac{2t}{1\ +\ t^2}$
@@ -121,6 +138,8 @@ $\frac{|AD|}{|AC|} = \frac{|DB|}{|BC|}$
 
 dla $\vec{AB} = [x_1;y_1]$ i $\vec{AC} = [x_2;y_2]$:
 $P = \frac{1}{2} \cdot |x_1 \cdot y_2 - x_2 \cdot y_1|$
+
+$cos{(\angle BAC)} = \frac{\vec{AB}\ \circ\ \vec{AC}}{|\vec{AB}|\cdot|\vec{AC}|}$
 
 # Warunek współliniowości
 Warunek współliniowości trzech punktów na płaszczyźnie $A(x_A; y_A)$, $B(x_B; y_B)$, $C(x_C; y_C)$:
