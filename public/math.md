@@ -34,13 +34,19 @@ $1\ a = 100\ m^2$
 $1\ t = 1000\ kg$
 $1\ l = 1\ dm^3$
 
-# Suma wartości bezwzględnych
-Jeśli spełnione jest któreś z równań:
+# Wartości bezwzględnych
+## Jeśli spełnione jest któreś z równań:
 
 - $|a| + |b| + |c| \le 0$
 - $a^2 + b^2 + c^2 \le 0$
 
 to $a=0 \wedge b=0 \wedge c=0$
+
+## Nierówności
+- $|a+b| \le |a|+|b|$
+- $|a - b| \le |a| + |b|$
+- $||a| - |b|| \le |a+b|$
+- $||a| - |b|| \le |a-b|$
 
 # Rozkład ułamków
 
