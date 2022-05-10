@@ -34,7 +34,7 @@ $1\ a = 100\ m^2$
 $1\ t = 1000\ kg$
 $1\ l = 1\ dm^3$
 
-# Wartości bezwzględnych
+# Wartości bezwzględne
 ## Jeśli spełnione jest któreś z równań:
 
 - $|a| + |b| + |c| \le 0$
@@ -103,7 +103,7 @@ Wszystkie te odcinki zawsze przecinają się w jednym punkcie
 |:---:|:---:|
 | Symetralne | Środek okręgu wpisanego |
 | Dwusieczne | Środek okręgu wpisanego |
-| Środkowe | Środek ciężkości |
+| Środkowe | Środek ciężkości / Barycentrum |
 | Wysokości | Ortocentrum |
 
 ## Twierdzenie o dwusiecznej
@@ -170,6 +170,13 @@ $P=\frac{1}{2} \cdot (a+b+c+d) \cdot r$
 | <img src="assets/math/szescian_40.png" width="200px"> | <img src="assets/math/szescian_54.png" width="200px"> | <img src="assets/math/szescian_60.png" width="200px"> |
 |:---:|:---:|:---:|
 | $tg\ \alpha < \sqrt{2} \Leftrightarrow \alpha < 54^{\circ}$ | $tg\ \alpha = \sqrt{2} \Rightarrow \alpha \approx 54^{\circ}$ | $tg\ \alpha > \sqrt{2} \Leftrightarrow \alpha > 54^{\circ}$ |
+
+# Kąt zewnętrzny
+<img src="assets/math/katy_zewnetrzne.svg" width="300px">
+
+Kąt zewnętrzny istnieje tylko, jeśli kąt wewnętrzny jest wypukły, czyli $\alpha \in \langle 0^{\circ}; 180^{\circ} \rangle$
+
+Suma wszystkich kątów zewnętrznych w dowolnym wielokącie wypukłym jest równa $720^{\circ}$
 
 # Ilości w bryłach
 | Bryła o podstawie $n$-kąta | Wierzchołki | Krawędzie | Ściany | Ściany Boczne |
