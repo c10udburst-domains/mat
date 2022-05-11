@@ -118,7 +118,7 @@ Wszystkie te odcinki zawsze przecinają się w jednym punkcie
 
 | Odcinek | Przecięcie |
 |:---:|:---:|
-| Symetralne | Środek okręgu wpisanego |
+| Symetralne | Środek okręgu opisanego |
 | Dwusieczne | Środek okręgu wpisanego |
 | Środkowe | Środek ciężkości / Barycentrum |
 | Wysokości | Ortocentrum |
