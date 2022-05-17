@@ -147,7 +147,7 @@ $[\Phi] = 1\ T \cdot m^2 = 1\ Wb$
 
 $\varepsilon_{ind} = \frac{\Delta \Phi}{\Delta t}$
 
-$\varepsilon = BlV$
+$\varepsilon = BlV$ :fa-exclamation: 
 
 ## Reguła Lenza
 
@@ -158,3 +158,29 @@ Kierunek prądu indukcyjnego przeciwdziała zmianom, które go wywołały
 $k = \frac{U_1}{U_2} = \frac{n_1}{n_2}$
 
 gdzie $k$ przekładnia transformatora
+
+# Ciśnienie
+
+$p=\frac{F_N}{S}$
+
+## Ciśnienie hydrostatyczne
+$p_h=\rho h g$
+
+## Prawo Pascala
+Prawo Pascala - kto wypierdala, ten zapierdala
+
+Ciśnienie zewnętrzne wywarte na ciecz działa w niej we wszystkich kierunkach jednakowo, prostopadle do ścian naczynia.
+
+## Prawo Archimedesa
+$F_{wyp} = \rho_{cieczy} \cdot V_{ciała} \cdot g$
+
+# Fale
+
+## Fala poprzeczna - cząsteczki wykonują drgania prostopadle do kierunku rozchodzenia fali
+## Fala podłużna - cząsteczki wykonują drgania równolegle do kierunku rozchodzenia fali
+
+$\lambda = V \cdot T$
+$y(x, t) = A sin 2 \pi (\frac{t}{T} - \frac{x}{\lambda})$
+
+# Postulat Bohra
+$m_e V R = \frac{nh}{2 \pi}$
